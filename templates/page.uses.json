@@ -1,0 +1,598 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "a37c37f2-35ec-49ef-9c55-63a4fd5756bc": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20381271130397__a37c37f2-35ec-49ef-9c55-63a4fd5756bc-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "FIXES WHATEVER YOU’RE FIXIN’ TO FIX."
+          }
+        },
+        "template--20381271130397__a37c37f2-35ec-49ef-9c55-63a4fd5756bc-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nothing cleans, lubricates, protects and preserves like Ballistol. In fact, it’s the most versatile multi-purpose oil on the planet. It’s wide range of applications and capabilities are legendary. From maintaining firearms to restoring wood, plastic and leather to loosening rusty bolts to stopping squeaks and preventing rust Balistol does it all – and then some.</p>",
+            "text_style": "body"
+          }
+        },
+        "template--20381271130397__a37c37f2-35ec-49ef-9c55-63a4fd5756bc-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/multi-purpose-oil",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20381271130397__a37c37f2-35ec-49ef-9c55-63a4fd5756bc-heading-1",
+        "template--20381271130397__a37c37f2-35ec-49ef-9c55-63a4fd5756bc-text-1",
+        "template--20381271130397__a37c37f2-35ec-49ef-9c55-63a4fd5756bc-button-1"
+      ],
+      "settings": {
+        "class_main": "",
+        "image": "shopify://shop_images/Ballistol_Can_Isolated_1_95b20b70-109c-403b-8004-0a9a10b75edc.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "scheme-3c0029fd-d92e-4dae-bd64-0633e03cf38d",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8c165b61-9dbc-4e92-b75d-295a2d50bdad": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https://www.youtube.com/watch?v=DZf4mUM10Vc&t=10s",
+        "cover_image": "shopify://shop_images/gp.png",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "5e32e268-7e8c-4d3d-83c6-c1b0c9818a31": {
+      "type": "uses_image_with_text",
+      "blocks": {
+        "8153c107-b97e-4721-ae90-3097aa0e4d6a": {
+          "type": "image",
+          "settings": {
+            "use_img": "shopify://shop_images/Ballistol_Sqr_Image_Gun-2_1.png",
+            "title": "",
+            "use_content": "<p>Ballistol is fully compatible with all metals including aluminum. However, Ballistol dissolves traces of copper, zinc, lead and tombac and can, therefore, be used to clean brass, bronze and silver. Read more about Ballistol for <a href=\"/pages/uses#shopify-section-template--20381271130397__f587fa25-795c-4448-a569-af96a91a0a89\" title=\"/pages/uses#shopify-section-template--20381271130397__f587fa25-795c-4448-a569-af96a91a0a89\">metal care</a>.</p><p>Ballistol is an excellent smokeless powder cleaning solvent. It will “melt” carbon deposits in the barrel and chamber.</p><p>Most corrosion inhibiting lubricants can only protect against normal oxidation. They do so by covering up the surface, which they are supposed to protect, and prevent contact with water and air. Due to its alkalinity Ballistol can also protect against galvanic corrosion, acidic corrosion, and salt water corrosion.</p><p>Due to the anti-oxidants contained in it, Ballistol will never harden or gum up. Ballistol retains its lubricity over extended periods of exposure. Read more about <a href=\"/pages/uses#shopify-section-template--20381271130397__b1eca916-421a-4e67-b3d6-acf7bee29a19\" title=\"/pages/uses#shopify-section-template--20381271130397__b1eca916-421a-4e67-b3d6-acf7bee29a19\">Ballistol’s longevity.</a></p>"
+          }
+        },
+        "a873265e-ade4-4050-a91c-9d3fb7219928": {
+          "type": "image",
+          "settings": {
+            "use_img": "shopify://shop_images/Ballistol_Sqr_Image_Gun-4_1.png",
+            "title": "GUN STOCK",
+            "use_content": "<p>Using Ballistol to maintain wooden gun stocks is particularly recommendable in climates with frequent rain and/or high relative humidity. Wood absorbs water and swells as a consequence. This may mean your stocks become bigger, wider and longer as they absorb more and more water. Before long they will no longer fit your gun or even crack. Ballistol will also prevent wood from drying out in hot arid climates.</p><p>Ballistol will not damage wood stocks; conversely, Ballistol seals and protects wooden stocks of firearms. In fact, Ballistol brings out the grain and luster of old wood. Read more about Ballistol’s uses on <a href=\"/pages/uses#shopify-section-template--20381271130397__7c0a9829-8fc1-477b-9414-c2d614442447\" title=\"/pages/uses#shopify-section-template--20381271130397__7c0a9829-8fc1-477b-9414-c2d614442447\">wood</a>.</p><p>Ballistol is also safe to use on composite/polycarbonate stocks.</p>"
+          }
+        },
+        "ef4d8db9-1c1c-48fb-9dc8-a7c02e9208e8": {
+          "type": "image",
+          "settings": {
+            "title": "BLACK POWDER SOLVENT",
+            "use_content": "<p>Due to its alkaline character, Ballistol is ideal for cleaning and maintaining black powder firearms. The residues from black powder in chambers and bores are acidic. Ballistol neutralizes and dissolves them. This eliminates the need for aggressive solvents.</p><p>Since Ballistol emulsifies with water, mix one part Ballistol and two parts water to make one of the best black powder solvents available.</p>"
+          }
+        },
+        "0507b5dc-5761-4fad-8c47-e840e576e2e6": {
+          "type": "image",
+          "settings": {
+            "use_img": "shopify://shop_images/Ballistol_Sqr_Image_Gun-3_1.png",
+            "title": "CORROSIVE AMMO",
+            "use_content": "<p>Due to its alkaline character, Ballistol is ideal for cleaning and maintaining black powder firearms. The residues from black powder in chambers and bores are acidic. Ballistol neutralizes and dissolves them. This eliminates the need for aggressive solvents.</p><p>Since Ballistol emulsifies with water, mix one part Ballistol and two parts water to make one of the best black powder solvents available.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "8153c107-b97e-4721-ae90-3097aa0e4d6a",
+        "a873265e-ade4-4050-a91c-9d3fb7219928",
+        "ef4d8db9-1c1c-48fb-9dc8-a7c02e9208e8",
+        "0507b5dc-5761-4fad-8c47-e840e576e2e6"
+      ],
+      "settings": {
+        "page-id": "firmarm_care",
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "img_green": "shopify://shop_images/Gun_Icon_3.png",
+        "title": "FIREARM CARE",
+        "detail": "Protect Your Protection Lock Stock and Barrel.",
+        "content": "<p>Ballistol cleans and removes all types of bore fouling. Cleaning with Ballistol will save you time, minimize the need for brushing, and also form a protective film on your firearm. Due to its slight alkalinity, Ballistol neutralizes and dissolves black powder and corrosive ammo residue. In addition, Ballistol will beautify gun stocks, and prevent them from drying out. As a lubricant, Ballistol will never gum up or harden. With Ballistol, your entire firearm will stay lubricated and protected.</p>"
+      }
+    },
+    "575266d2-3183-4916-8f43-f9d37ed0a025": {
+      "type": "three_img_video",
+      "blocks": {
+        "02c08084-373e-4a73-b907-c22b16b7f310": {
+          "type": "video",
+          "settings": {
+            "enable_video_looping": false,
+            "video_url": "https://youtu.be/4j6_-UUUEek",
+            "cover_image": "shopify://shop_images/ps2.png"
+          }
+        },
+        "24baea19-55e3-4031-94a6-7cb9fdaa16d2": {
+          "type": "video",
+          "settings": {
+            "enable_video_looping": false,
+            "video_url": "https://youtu.be/lBd90JCWb2s",
+            "cover_image": "shopify://shop_images/ps2.png"
+          }
+        },
+        "04ca02bd-4a3b-485e-8c12-128125c48cb9": {
+          "type": "video",
+          "settings": {
+            "enable_video_looping": false,
+            "video_url": "https://youtu.be/7VTIqAMPOco",
+            "cover_image": "shopify://shop_images/ps2.png"
+          }
+        }
+      },
+      "block_order": [
+        "02c08084-373e-4a73-b907-c22b16b7f310",
+        "24baea19-55e3-4031-94a6-7cb9fdaa16d2",
+        "04ca02bd-4a3b-485e-8c12-128125c48cb9"
+      ],
+      "settings": {
+        "page-id": "leather_care",
+        "border_bottom": false,
+        "color_scheme": "",
+        "padding_top": 28,
+        "padding_bottom": 0,
+        "title": "",
+        "detail": "",
+        "content": "",
+        "content_position_top": false,
+        "video_content": "",
+        "enable_video_looping": false,
+        "video_url": "",
+        "image_first": false
+      }
+    },
+    "ec497c0c-316a-480d-8cb1-d125a78838f0": {
+      "type": "three_img_video",
+      "blocks": {
+        "44a5024e-7959-4006-83fa-2008944f77c8": {
+          "type": "image",
+          "settings": {
+            "img": "shopify://shop_images/Ballistol_Sqr_Image_Leather-5_1.png"
+          }
+        },
+        "1361945a-23d5-4cb6-ac09-f97a21115b3d": {
+          "type": "image",
+          "settings": {
+            "img": "shopify://shop_images/Ballistol_Sqr_Image_Leather-1_1.png"
+          }
+        },
+        "e8366372-360f-4004-b9ec-376486308bf8": {
+          "type": "image",
+          "settings": {
+            "img": "shopify://shop_images/Ballistol_Sqr_Image_Leather-4_1.png"
+          }
+        }
+      },
+      "block_order": [
+        "44a5024e-7959-4006-83fa-2008944f77c8",
+        "1361945a-23d5-4cb6-ac09-f97a21115b3d",
+        "e8366372-360f-4004-b9ec-376486308bf8"
+      ],
+      "settings": {
+        "page-id": "",
+        "border_bottom": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "img_green": "shopify://shop_images/Leather_Icon_2.png",
+        "title": "LEATHER CARE",
+        "detail": "Save Your Hide.",
+        "content": "<p>Leather that is frequently exposed to moisture or high humidity will become hard and brittle if not treated correctly. Ballistol will keep all smooth leather soft, and will effectively protect leather against the effects of water, insects and mold. Use Ballistol on boots, shoes, gloves, holsters, slings, sheathes, saddles, baseball gloves, sofas, chairs and other leather products.</p>",
+        "content_position_top": false,
+        "video_content": "<p>If properly processed, leather will contain acidic residues from tannic acid. Ballistol will form a permanent chemical compound with these residues within the leather which will make the leather virtually impermeable to water. Handguns, in particular police handguns, are mostly carried and even stored in leather holsters. Corrosion may develop in the areas where they have direct contact with the leather. By treating the inside of the holster with Ballistol the acidic residues from tannic acid will be completely neutralized and this source of corrosion will be eliminated.</p>",
+        "enable_video_looping": false,
+        "video_url": "https://youtu.be/xRktR0rAVBo",
+        "cover_image": "shopify://shop_images/ps2.png",
+        "image_first": false
+      }
+    },
+    "7c0a9829-8fc1-477b-9414-c2d614442447": {
+      "type": "three_img_video",
+      "blocks": {
+        "7b83dfc1-4b3b-4eba-8e66-4680abb251a4": {
+          "type": "image",
+          "settings": {
+            "img": "shopify://shop_images/Ballistol_Sqr_Image_Wood-4_1.png"
+          }
+        },
+        "819281e1-6c85-4406-bfde-ff83e26d9194": {
+          "type": "image",
+          "settings": {
+            "img": "shopify://shop_images/Ballistol_Sqr_Image_Wood-1_1.png"
+          }
+        },
+        "83535cfd-433e-4b0e-9c30-24eee03c5c83": {
+          "type": "image",
+          "settings": {
+            "img": "shopify://shop_images/Ballistol_Sqr_Image_wood-2_1.png"
+          }
+        }
+      },
+      "block_order": [
+        "7b83dfc1-4b3b-4eba-8e66-4680abb251a4",
+        "819281e1-6c85-4406-bfde-ff83e26d9194",
+        "83535cfd-433e-4b0e-9c30-24eee03c5c83"
+      ],
+      "settings": {
+        "page-id": "wood_care",
+        "border_bottom": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "img_green": "shopify://shop_images/Wood_Icons_2.png",
+        "title": "WOOD CARE",
+        "detail": "Brings Wood Back To Life.",
+        "content": "<p>Ballistol maintains, protects, preserves, and rejuvenates unpainted wooden surfaces. It regenerates natural wood and brings out the wood grain. It protects wood against damage from humidity and insects. Antique furniture and old, dry, dull wood regain their natural silky glow when treated with Ballistol. Ballistol is ideal for maintaining wooden gun stocks and pistol grips.</p>",
+        "content_position_top": false,
+        "video_content": "",
+        "enable_video_looping": false,
+        "video_url": "",
+        "image_first": false
+      }
+    },
+    "cd73c0e8-b243-4b62-9071-2b9bf492e5db": {
+      "type": "three_img_video",
+      "blocks": {
+        "4907795c-d43f-47fe-b548-6c071ada7283": {
+          "type": "image",
+          "settings": {
+            "img": "shopify://shop_images/Ballistol_Sqr_Image_HG-1.png"
+          }
+        },
+        "76ba5cdc-7fd7-4e41-b7d3-0b266ae2dc88": {
+          "type": "image",
+          "settings": {
+            "img": "shopify://shop_images/Ballistol_Sqr_Image_HG-3.png"
+          }
+        },
+        "2f3bdc34-f426-4737-9cc2-506d60c84a80": {
+          "type": "image",
+          "settings": {
+            "img": "shopify://shop_images/Ballistol_Sqr_Image_HG-2.png"
+          }
+        }
+      },
+      "block_order": [
+        "4907795c-d43f-47fe-b548-6c071ada7283",
+        "76ba5cdc-7fd7-4e41-b7d3-0b266ae2dc88",
+        "2f3bdc34-f426-4737-9cc2-506d60c84a80"
+      ],
+      "settings": {
+        "page-id": "home_garden",
+        "border_bottom": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "img_green": "shopify://shop_images/Group_1.png",
+        "title": "HOME & GARDEN",
+        "detail": "Brings Wood Back To Life.",
+        "content": "<p>Ballistol lubricates anything that squeaks or binds, including locks, hinges, sliding doors, windows, fans, moving parts in AC units, faucets and gardening tools like scissors, sickles, hatch-trimmers, weed-wackers, lawn connections, chain saws, and more. In addition, Ballistol maintains, protects, preserves and rejuvenates unpainted wooden surfaces. It regenerates natural wood and brings out the wood grain, and helps antique furniture and old, dry, dull wood regain its natural silky glow. Ballistol also protects wood against damage resulting from humidity and insects. It’s also great for cleaning, rejuvenating and preserving metal and plastic tools from screwdrivers, wrenches, knives and pliers to drills, clippers, sanders and saws. Tired of snow sticking to your shovel? Spray it with Ballistol and problem solved.</p>",
+        "content_position_top": false,
+        "video_content": "",
+        "enable_video_looping": false,
+        "video_url": "",
+        "image_first": false
+      }
+    },
+    "f587fa25-795c-4448-a569-af96a91a0a89": {
+      "type": "three_img_video",
+      "blocks": {
+        "97363a4b-e86f-4c2d-a420-d4ca5012b4b4": {
+          "type": "image",
+          "settings": {
+            "img": "shopify://shop_images/Ballistol_Sqr_Image_Metal-3_1.png"
+          }
+        },
+        "e3d9cd0b-9673-4e36-8b0f-4202f904f3f3": {
+          "type": "image",
+          "settings": {
+            "img": "shopify://shop_images/Ballistol_Sqr_Image_Metal-2_1.png"
+          }
+        },
+        "5e03e3bb-15dc-46b9-a919-46dd71bb795b": {
+          "type": "video",
+          "settings": {
+            "enable_video_looping": false,
+            "video_url": "https://youtu.be/xRktR0rAVBo",
+            "cover_image": "shopify://shop_images/ps1.png"
+          }
+        }
+      },
+      "block_order": [
+        "97363a4b-e86f-4c2d-a420-d4ca5012b4b4",
+        "e3d9cd0b-9673-4e36-8b0f-4202f904f3f3",
+        "5e03e3bb-15dc-46b9-a919-46dd71bb795b"
+      ],
+      "settings": {
+        "page-id": "metal_care",
+        "border_bottom": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "img_green": "shopify://shop_images/Metal_Icon_2.png",
+        "title": "METAL CARE",
+        "detail": "Metal’s Best Friend.",
+        "content": "<p>Human sweat is composed of amino acids and is, therefore, of a slightly acidic nature. This can be a real problem in fine mechanics. The effects of human hand sweat on polished metal surfaces is similar to the etching process. This is why Ballistol is widely used in the precision gauge and tool industry and in the production of scales or other precision instruments. For the same reason Ballistol is used in quality control departments of manufacturing companies and in laboratories for the protection and maintenance of precision gauges and measuring tools.<br/><br/>Ballistol forms a protective film on the surface of metals. Due to its low superficial tension it is capable of creeping into the finest cracks and fissures in metallic surfaces. This also makes Ballistol an excellent “penetrant”, loosening frozen nuts and bolts.<br/><br/>Of course, Ballistol can do whatever other lubricants/protectants can do. Use it on tight or squeaky hinges, on door locks, padlocks, for the maintenance of gardening tools, lawn mowers, scissors, pocket knives, as sharpening oil, on bicycles, motorcycles, your model train, roller blades, skateboards, ski bindings and edges, etc., etc. But Ballistol does more. It can be used to polish silver and brass. And it will even protect WET surfaces.<br/><br/>Unlike most other lubricants Ballistol emulsifies with water. Water will separate the leading brand from metal. Ballistol mixes with the water and penetrates it. When the water evaporates, Ballistol stays behind and continues to protect the metal-or <a href=\"/pages/uses#shopify-section-template--20381271130397__0e8e6368-0410-4fea-8510-6aeb3f5611e1\" title=\"/pages/uses#shopify-section-template--20381271130397__0e8e6368-0410-4fea-8510-6aeb3f5611e1\">plastic</a> or <a href=\"/pages/uses#shopify-section-template--20381271130397__7c0a9829-8fc1-477b-9414-c2d614442447\" title=\"/pages/uses#shopify-section-template--20381271130397__7c0a9829-8fc1-477b-9414-c2d614442447\">wood.</a></p>",
+        "content_position_top": true,
+        "video_content": "",
+        "enable_video_looping": false,
+        "video_url": "",
+        "image_first": false
+      }
+    },
+    "986d64c3-b759-4357-8b92-76af7d735af6": {
+      "type": "three_img_video",
+      "settings": {
+        "page-id": "motor_care",
+        "border_bottom": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "img_green": "shopify://shop_images/Auto-Icon_3.png",
+        "title": "MOTOR VEHICLE CARE",
+        "detail": "Cleans, Lubricates & Protects Whatever You Drive Or Ride.",
+        "content": "<p>Ballistol can be used in motor compartments, as well as on joints, links, wire pulls and around battery terminals. It also protects electrical contacts, beautifies faded gel coats and lubricates zippers, push buttons and winches. Ballistol is great for fishing rods, reels and tackle. In addition, it lubricates autos, snow mobiles, riding lawnmowers, jet skis, boats, motorcycles, bicycles, rollerblades, skateboards, and ski and sports equipment. Ballistol protects all camping gear.</p>",
+        "content_position_top": true,
+        "video_content": "<p>While Ballistol can lubricate and protect anything in and on your car or motorcycles, some applications may appear surprising and deserve mentioning.<br/><br/>Ballistol will prevent your door locks from freezing in the winter. It will keep your battery terminals corrosion free as well as neutralizing excess acid around your batteries, which is a frequent cause of corrosion of terminals and connecting cables.<br/><br/>When washing your car, put a few drops of Ballistol into the last bucket of water, rinse and dry with a clean cotton cloth. This will definitely brighten up your car’s paint or boat’s gelcoat.<br/><br/>Ballistol also removes tar and insect stains from cars, inhibits corrosion from salt and salt water, winterizes motors, and neutralizes acidic residues from fuel combustion in engines.</p>",
+        "enable_video_looping": false,
+        "video_url": "",
+        "image_first": false,
+        "imgvideo1": "shopify://shop_images/Ballistol_Sqr_Image_Auto-1_1.png"
+      }
+    },
+    "0e8e6368-0410-4fea-8510-6aeb3f5611e1": {
+      "type": "three_img_video",
+      "settings": {
+        "page-id": "plastic_care",
+        "border_bottom": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "img_green": "shopify://shop_images/Auto-Icon_2.png",
+        "title": "PLASTIC & PAINT CARE",
+        "detail": "Make Paint And Plastic Look Fantastic.",
+        "content": "<p>Ballistol will not negatively affect plastic materials or paints which are chemically resistant to oils. Specifically, Ballistol will not adversely affect PVC, high pressure Polyethylenes, mipolam, teflon-derivatives or hostaflon-derivatives. It can be safely applied to the gel coat of fiberglass boats. Caution is recommended with foamed polymers like polyester, foamed rubber, or caulking foam in the areas of direct contact. As a rule of thumb, it may be safely assumed that all plastic materials, polymers, paints, lacquers, or varnishes that are chemically neutral toward technical oils will not be adversely affect by Ballistol either. The same holds true of rubber objects. All those types of rubber, which are chemically resistant against mineral oils, will also remain unaffected by Ballistol. Rubbers that are not resistant against mineral oils may become brittle if exposed to Ballistol for an extended period of time and/or under higher than ambient temperatures. If applied thinly Ballistol is suitable for maintaining and cleaning any sort of rubber without damage.</p>",
+        "content_position_top": true,
+        "video_content": "<p>Varnishes are synthetic substances which transform into polymers when drying. Their characteristics can vary widely depending on their chemical composition. All those varnishes and paints, which have a chemical structure similar to the one of oil resistant polymers, are chemically resistant to Ballistol.<br/><br/>A thin film of Ballistol can be used to polish painted surfaces. It will restore their original shine and additionally will make them water-repellent. However, care should be taken not to apply too much Ballistol, since this would not only be a waste but might also make the paint dull. When washing your car, put a few drops of Ballistol into the last bucket of water, rinse and dry with a clean cotton cloth. This will definitely brighten up your car’s paint.<br/><br/>Ballistol has been used with great success on old gramophone records. If applied thinly it will eliminate static noise and enhance the sound quality. DO NOT USE ON COMPACT DISKS!</p>",
+        "enable_video_looping": false,
+        "video_url": "",
+        "image_first": true,
+        "imgvideo1": "shopify://shop_images/Ballistol_Sqr_Image_P_P-1_1.png"
+      }
+    },
+    "aaa4f3b6-d58c-413b-9f25-ccd39e1d0076": {
+      "type": "three_img_video",
+      "settings": {
+        "page-id": "fishing_care",
+        "border_bottom": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "img_green": "shopify://shop_images/Boating_Icon_2.png",
+        "title": "FISHING & BOATING EQUIPMENT CARE",
+        "detail": "Don’t Leave Land Without It.",
+        "content": "<p>Ballistol will temporarily protect metal parts against salt water corrosion; excellent for winches. Use Ballistol on the gel coat of your fiberglass boat hull and make your old boat look ten years younger. Electric contacts on boats and trailers can be protected against fast corrosion from salt water by spraying them with Ballistol. A little Ballistol sprayed inside the anchor and position lights and on the various contacts under the dashboard will slow down decay of electric connections and switches. Use Ballistol on all wood on your boat. Use it in your boat motor to winterize it or as anti-knock additive to fuel. Since Ballistol dissolves traces of copper, you can use it to make brass shine again.<br/><br/></p>",
+        "content_position_top": true,
+        "video_content": "<p>Ballistol works fine on zippers made out of metal or plastic. Apply with a fine watercolor brush so as not to leave fatty spots on your canvas top, side curtains, awnings, or wind breaker. Ballistol is ideal for lubricating and protecting the external and internal mechanical parts of fishing reels. It does not adversely affect monofilament fishing line.</p>",
+        "enable_video_looping": false,
+        "video_url": "",
+        "image_first": true,
+        "imgvideo1": "shopify://shop_images/Ballistol_Sqr_Image_Boating-2_1.png",
+        "imgvideo2": "shopify://shop_images/Ballistol_Sqr_Image_Boating-1_1.png"
+      }
+    },
+    "f5d822f7-07de-4710-b981-285641dea11e": {
+      "type": "three_img_video",
+      "settings": {
+        "page-id": "industry_manufacturing",
+        "border_bottom": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "img_green": "shopify://shop_images/Industry_Icon_1.png",
+        "title": "INDUSTRY & MANUFACTURING",
+        "detail": "Why Some Of The World’s Top Companies Use Ballistol.",
+        "content": "<p>Numerous beverage manufacturers, bottling companies and breweries in Europe use Ballistol for the maintenance and protection of their machinery. Among them are bottling stations for Coca Cola, mineral water companies and, of course, many of Germany’s famous beer breweries. One of Germany’s largest precision scale manufacturers, BIZERBA, has specified Ballistol for use in their precision scales and has been using it for many years. The main reason is that Ballistol does not resinify even after a long time and that parts lubricated with Ballistol will never become sticky or glued together and thus cause increased friction, which is crucial for highly sensitive precision scales.<br/><br/>The general food industry uses Ballistol for two major reasons: it is not toxic to people and pets and what remains, after the components of Ballistol that can evaporate have evaporated, is of practically neutral odor and taste. And that is important to German beer brewers who are committed to making beer under the strict rules of the “REINHEITSGEBOT,” the purity law, issued in 1516 by the Bavarian Dukes Wilhelm and Ludwig.<br/><br/></p>",
+        "content_position_top": true,
+        "video_content": "",
+        "enable_video_looping": false,
+        "video_url": "",
+        "image_first": false
+      }
+    },
+    "0ddfa530-2e7e-4337-8dbd-a16ee38f7690": {
+      "type": "three_img_video",
+      "settings": {
+        "page-id": "electical_care",
+        "border_bottom": true,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "img_green": "shopify://shop_images/Group_2.png",
+        "title": "ELECTRICAL EQUIPMENT & TECH CARE",
+        "detail": "Results Are Amazing - But Not Shocking.",
+        "content": "<p>Ballistol is ideal for the re-lubrication of moving mechanical parts of typewriters, electronic printers, cameras, printing calculators, etc. because of its resistance to resinification and its compatibility with plastic components. When using Ballistol in electronic equipment do not spray! Apply with fine water color brush or pipette. Ballistol has a conductivity of 0.005 Micro-Siemens/cm, which is 1/60 the conductivity of water. It is thus nearly an insulator and safe for use in electrical insulation.<br/><br/></p>",
+        "content_position_top": false,
+        "video_content": "",
+        "enable_video_looping": false,
+        "video_url": "",
+        "image_first": false
+      }
+    },
+    "716e9a0e-8637-4b04-89bf-e5db7e4a6e8b": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20381271130397__716e9a0e-8637-4b04-89bf-e5db7e4a6e8b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "OTHER UNIQUE FEATURES & USES"
+          }
+        },
+        "template--20381271130397__716e9a0e-8637-4b04-89bf-e5db7e4a6e8b-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The most astounding feature of Ballistol is perhaps its universality. There are other protectants/lubricants in the market, but none have the same wide range of applications, in combination with other unique capabilities, as compared to Ballistol.<br/><br/>Ballistol can be used to clean, to preserve, to protect, to prevent corrosion, and maintain not only objects made out of metal but also wood, hard plastics, and even smooth leather. WARNING: Do not use on suede.<br/><br/>While most other brands are pH-neutral, i.e. have a pH around 7, Ballistol has a pH between 8 and 8.5. This is why Ballistol is capable of neutralizing mild acids and human hand sweat, which is of a slightly acidic nature.<br/><br/>Ballistol does not resinify. Most other lubricants are subject to relatively fast aging and oxidation. They harden in time – a process which is called “resinification.” The oil begins to thicken, becomes sticky, gluey, and finally turns into a hard resinous substance. By contrast, Ballistol contains a combination of anti-oxidants and medical oils, which together make it much less susceptible to the process of aging than other lubricants. </p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--20381271130397__716e9a0e-8637-4b04-89bf-e5db7e4a6e8b-heading-1",
+        "template--20381271130397__716e9a0e-8637-4b04-89bf-e5db7e4a6e8b-text-1"
+      ],
+      "settings": {
+        "class_main": "",
+        "image": "shopify://shop_images/Ballistol_Can_Isolated-2_1.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b1eca916-421a-4e67-b3d6-acf7bee29a19": {
+      "type": "longevity_text",
+      "blocks": {
+        "template--20381271130397__b1eca916-421a-4e67-b3d6-acf7bee29a19-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "LONGEVITY",
+            "heading_size": "h1"
+          }
+        },
+        "7364d7b5-76fb-4456-8554-ac6e1d4844eb": {
+          "type": "caption",
+          "settings": {
+            "caption": "Always As Good As The Day You Bought It.",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--20381271130397__b1eca916-421a-4e67-b3d6-acf7bee29a19-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Most lubricants are subject to relatively fast aging and oxidation. They harden in time – a process called “resinification.” The oil begins to thicken and becomes sticky and gluey before finally turning into a hard, resinous substance. By contrast, Ballistol contains antioxidants, which make it much less susceptible to the process of aging and resinification.<br/><br/>In 1985, for example, a bottle of Ballistol was found in an attic where it had been left for over 60 years. The oil had not hardened and a chemical analysis revealed that it still had the same degree of purity as freshly produced Ballistol.<br/><br/>Furthermore, after WW2, the Klever Company (makers of Ballistol) conducted a long-term test. Several rifles and shotguns were treated with Ballistol, wrapped in wax-impregnated paper, and stored in a trunk. After 25 years, the trunk was opened and the firearms inspected. All weapons had remained completely rust-free on both the inside and outside, and no resinification of Ballistol had occurred. After pulling a dry cotton patch through the barrels, several rounds were fired from the weapons without malfunction.<br/><br/>Ballistol truly stands the test of time. If something needs long-term preservation, Ballistol is the right choice for the job.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20381271130397__b1eca916-421a-4e67-b3d6-acf7bee29a19-heading-1",
+        "7364d7b5-76fb-4456-8554-ac6e1d4844eb",
+        "template--20381271130397__b1eca916-421a-4e67-b3d6-acf7bee29a19-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "inverse",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1887e1a3-5122-4de5-a9c0-d797eefa7bc8": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20381271130397__1887e1a3-5122-4de5-a9c0-d797eefa7bc8-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "SOME OF BALLISTOL’S 1,001 USES:",
+            "heading_size": "h1"
+          }
+        },
+        "template--20381271130397__1887e1a3-5122-4de5-a9c0-d797eefa7bc8-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Lubricates hinges, door locks, padlocks, scissors, pocket knives, bicycle chains, roller blades, skateboards, sliding doors and windows</li><li>Cleans silver and brass</li><li>Lubricates moving mechanical parts of typewriters, video cameras, printing calculators, etc.</li><li>Rejuvenates wood surfaces, especially antique furniture</li><li>Cleans and impregnates leather boots, saddles, jackets, motorcycle clothing, saddle bags, hoisters, slings, and belts</li><li>Keeps battery terminals free of corrosion and neutralizes spilled acid</li><li>Removes tar and insect stains from motor vehicles</li><li>Inhibits corrosion from salt and salt water</li><li>Winterizes motors, neutralizes acidic residues from fuel combustion in engines</li><li>Helps extract water from fuel tanks</li><li>Shines gel coat on fiberglass boats</li><li>Protects electrical contacts on boats and trailers</li><li>Lubricates plastic and metal zippers</li><li>Lubricates fishing reels</li><li>Removes traces of lead, copper, and tombac from bores and chambers of firearms</li><li>Seals and protects wooden stocks of firearms</li><li>Neutralizes acidic residues in black powder guns</li><li>Removes hard-baked soot from glass doors of fireplaces and woodstoves</li><li>Removes ball-point pen ink from smooth surfaces</li><li>Frees calcium-locked faucets</li><li>Cleans the strings and fret-boards of guitars and other string instruments</li><li>Increases performance of CO2 model airplane motors</li><li>Cleans, lubricates and protects straight and electric razors, scissors and other hair grooming devices</li></ul>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20381271130397__1887e1a3-5122-4de5-a9c0-d797eefa7bc8-heading-1",
+        "template--20381271130397__1887e1a3-5122-4de5-a9c0-d797eefa7bc8-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "bg-img": "shopify://shop_images/Icons_Background.png",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "a0f806a9-66e4-4fc6-ac11-1d49de47e93e": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\nsection {scroll-margin-top:70px}\n</style>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "a37c37f2-35ec-49ef-9c55-63a4fd5756bc",
+    "8c165b61-9dbc-4e92-b75d-295a2d50bdad",
+    "5e32e268-7e8c-4d3d-83c6-c1b0c9818a31",
+    "575266d2-3183-4916-8f43-f9d37ed0a025",
+    "ec497c0c-316a-480d-8cb1-d125a78838f0",
+    "7c0a9829-8fc1-477b-9414-c2d614442447",
+    "cd73c0e8-b243-4b62-9071-2b9bf492e5db",
+    "f587fa25-795c-4448-a569-af96a91a0a89",
+    "986d64c3-b759-4357-8b92-76af7d735af6",
+    "0e8e6368-0410-4fea-8510-6aeb3f5611e1",
+    "aaa4f3b6-d58c-413b-9f25-ccd39e1d0076",
+    "f5d822f7-07de-4710-b981-285641dea11e",
+    "0ddfa530-2e7e-4337-8dbd-a16ee38f7690",
+    "716e9a0e-8637-4b04-89bf-e5db7e4a6e8b",
+    "b1eca916-421a-4e67-b3d6-acf7bee29a19",
+    "1887e1a3-5122-4de5-a9c0-d797eefa7bc8",
+    "a0f806a9-66e4-4fc6-ac11-1d49de47e93e"
+  ]
+}

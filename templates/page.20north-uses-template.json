@@ -1,0 +1,328 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "a37c37f2-35ec-49ef-9c55-63a4fd5756bc": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20381271130397__a37c37f2-35ec-49ef-9c55-63a4fd5756bc-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "{{ page.metafields.custom.top_heading.value }}"
+          }
+        },
+        "template--20381271130397__a37c37f2-35ec-49ef-9c55-63a4fd5756bc-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "{{ page.metafields.custom.top_description | metafield_tag }}",
+            "text_style": "body"
+          }
+        },
+        "template--20381271130397__a37c37f2-35ec-49ef-9c55-63a4fd5756bc-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "{{ page.metafields.custom.top_button_text.value }}",
+            "button_link": "shopify://collections/multi-purpose-oil",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20381271130397__a37c37f2-35ec-49ef-9c55-63a4fd5756bc-heading-1",
+        "template--20381271130397__a37c37f2-35ec-49ef-9c55-63a4fd5756bc-text-1",
+        "template--20381271130397__a37c37f2-35ec-49ef-9c55-63a4fd5756bc-button-1"
+      ],
+      "settings": {
+        "class_main": "",
+        "image": "shopify://shop_images/Ballistol_Can_Isolated_1_95b20b70-109c-403b-8004-0a9a10b75edc.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "scheme-3c0029fd-d92e-4dae-bd64-0633e03cf38d",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_DApAEz": {
+      "type": "multirow",
+      "blocks": {
+        "row_97yJLc": {
+          "type": "row",
+          "settings": {
+            "image": "{{ page.metafields.custom.multirow_1_image.value }}",
+            "caption": "{{ page.metafields.custom.multirow_1_subheader.value }}",
+            "heading": "{{ page.metafields.custom.multirow_1_header.value }}",
+            "text": "{{ page.metafields.custom.multirow_1_description | metafield_tag }}",
+            "button_label": "{{ page.metafields.custom.multirow_1_button_text.value }}",
+            "button_link": ""
+          }
+        },
+        "row_HRKNL9": {
+          "type": "row",
+          "settings": {
+            "image": "{{ page.metafields.custom.multirow_2_image.value }}",
+            "caption": "{{ page.metafields.custom.multirow_2_subheader.value }}",
+            "heading": "{{ page.metafields.custom.multirow_2_header.value }}",
+            "text": "{{ page.metafields.custom.multirow_2_description | metafield_tag }}",
+            "button_label": "{{ page.metafields.custom.multirow_2_button_text.value }}",
+            "button_link": ""
+          }
+        },
+        "row_DMikcM": {
+          "type": "row",
+          "settings": {
+            "image": "{{ page.metafields.custom.multirow_3_image.value }}",
+            "caption": "{{ page.metafields.custom.multirow_3_subheading.value }}",
+            "heading": "{{ page.metafields.custom.multirow_3_heading.value }}",
+            "text": "{{ page.metafields.custom.multirow_3_description | metafield_tag }}",
+            "button_label": "{{ page.metafields.custom.multirow_3_button_text.value }}",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_97yJLc",
+        "row_HRKNL9",
+        "row_DMikcM"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "longevity_text_cz47eb": {
+      "type": "longevity_text",
+      "blocks": {
+        "heading_7gxGiJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "{{ page.metafields.custom.longevity_header.value }}",
+            "heading_size": "h1"
+          }
+        },
+        "text_fEqk7E": {
+          "type": "text",
+          "settings": {
+            "text": "{{ page.metafields.custom.longevity_description | metafield_tag }}"
+          }
+        },
+        "button_Pn7ba9": {
+          "type": "button",
+          "settings": {
+            "button_label": "{{ page.metafields.custom.longevity_button_text.value }}",
+            "button_link": "shopify://collections/multi-purpose-oil",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_7gxGiJ",
+        "text_fEqk7E",
+        "button_Pn7ba9"
+      ],
+      "name": "Longevity Text",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3c0029fd-d92e-4dae-bd64-0633e03cf38d",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "collapsible_content_VhGkAQ": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_tHfwbH": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "{{ page.metafields.custom.faq_question_1.value }}",
+            "icon": "question_mark",
+            "row_content": "{{ page.metafields.custom.faq_answer_1 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "collapsible_row_JQCXEz": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "{{ page.metafields.custom.faq_question_2.value }}",
+            "icon": "question_mark",
+            "row_content": "{{ page.metafields.custom.faq_answer_2 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "collapsible_row_eJwpMG": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "{{ page.metafields.custom.faq_question_3.value }}",
+            "icon": "question_mark",
+            "row_content": "{{ page.metafields.custom.faq_answer_3 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "collapsible_row_XVCUkP": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "{{ page.metafields.custom.faq_question_4.value }}",
+            "icon": "question_mark",
+            "row_content": "{{ page.metafields.custom.faq_answer_4 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "collapsible_row_Hm3Qdj": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "{{ page.metafields.custom.faq_question_5.value }}",
+            "icon": "question_mark",
+            "row_content": "{{ page.metafields.custom.faq_answer_5 | metafield_tag }}",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_tHfwbH",
+        "collapsible_row_JQCXEz",
+        "collapsible_row_eJwpMG",
+        "collapsible_row_XVCUkP",
+        "collapsible_row_Hm3Qdj"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "{{ page.metafields.custom.faqs_header.value }}",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "716e9a0e-8637-4b04-89bf-e5db7e4a6e8b": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20381271130397__716e9a0e-8637-4b04-89bf-e5db7e4a6e8b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "OTHER UNIQUE FEATURES & USES"
+          }
+        },
+        "template--20381271130397__716e9a0e-8637-4b04-89bf-e5db7e4a6e8b-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The most astounding feature of Ballistol is perhaps its universality. There are other protectants/lubricants in the market, but none have the same wide range of applications, in combination with other unique capabilities, as compared to Ballistol.<br/><br/>Ballistol can be used to clean, to preserve, to protect, to prevent corrosion, and maintain not only objects made out of metal but also wood, hard plastics, and even smooth leather. WARNING: Do not use on suede.<br/><br/>While most other brands are pH-neutral, i.e. have a pH around 7, Ballistol has a pH between 8 and 8.5. This is why Ballistol is capable of neutralizing mild acids and human hand sweat, which is of a slightly acidic nature.<br/><br/>Ballistol does not resinify. Most other lubricants are subject to relatively fast aging and oxidation. They harden in time – a process which is called “resinification.” The oil begins to thicken, becomes sticky, gluey, and finally turns into a hard resinous substance. By contrast, Ballistol contains a combination of anti-oxidants and medical oils, which together make it much less susceptible to the process of aging than other lubricants. </p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--20381271130397__716e9a0e-8637-4b04-89bf-e5db7e4a6e8b-heading-1",
+        "template--20381271130397__716e9a0e-8637-4b04-89bf-e5db7e4a6e8b-text-1"
+      ],
+      "settings": {
+        "class_main": "",
+        "image": "shopify://shop_images/Ballistol_Can_Isolated-2_1.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1887e1a3-5122-4de5-a9c0-d797eefa7bc8": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20381271130397__1887e1a3-5122-4de5-a9c0-d797eefa7bc8-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "SOME OF BALLISTOL’S 1,001 USES:",
+            "heading_size": "h1"
+          }
+        },
+        "template--20381271130397__1887e1a3-5122-4de5-a9c0-d797eefa7bc8-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Lubricates hinges, door locks, padlocks, scissors, pocket knives, bicycle chains, and more</li><li>Cleans silver and brass</li><li>Lubricates moving mechanical parts of typewriters, video cameras, printing calculators, etc.</li><li>Rejuvenates wood surfaces, especially antique furniture</li><li>Cleans and impregnates leather boots, saddles, jackets, motorcycle clothing, saddle bags, hoisters, slings, and belts</li><li>Keeps battery terminals free of corrosion and neutralizes spilled acid</li><li>Removes tar and insect stains from motor vehicles</li><li>Inhibits corrosion from salt and salt water</li><li>Winterizes motors, neutralizes acidic residues from fuel combustion in engines</li><li>Helps extract water from fuel tanks</li><li>Shines gel coat on fiberglass boats</li><li>Protects electrical contacts on boats and trailers</li><li>Removes traces of lead, copper, and tombac from bores and chambers of firearms</li><li>Neutralizes acidic residues in black powder guns</li><li>Removes ball-point pen ink from smooth surfaces</li><li>Frees calcium-locked faucets</li></ul>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20381271130397__1887e1a3-5122-4de5-a9c0-d797eefa7bc8-heading-1",
+        "template--20381271130397__1887e1a3-5122-4de5-a9c0-d797eefa7bc8-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "bg-img": "shopify://shop_images/Icons_Background.png",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "a0f806a9-66e4-4fc6-ac11-1d49de47e93e": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\nsection {scroll-margin-top:70px}\n</style>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "a37c37f2-35ec-49ef-9c55-63a4fd5756bc",
+    "multirow_DApAEz",
+    "longevity_text_cz47eb",
+    "collapsible_content_VhGkAQ",
+    "716e9a0e-8637-4b04-89bf-e5db7e4a6e8b",
+    "1887e1a3-5122-4de5-a9c0-d797eefa7bc8",
+    "a0f806a9-66e4-4fc6-ac11-1d49de47e93e"
+  ]
+}

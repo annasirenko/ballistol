@@ -1,0 +1,807 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "719e977d-1a9d-45a2-88b0-9272ced7df47": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20121160384797__719e977d-1a9d-45a2-88b0-9272ced7df47-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "SINCE 1904, BALLISTOL HAS DEFEATED RUST, FRICTION, CORROSION AND THOUSANDS OF CHEMICAL ENGINEERS WHO’VE TRIED TO IMPROVE IT."
+          }
+        },
+        "template--20121160384797__719e977d-1a9d-45a2-88b0-9272ced7df47-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>For over 100 years, Ballistol has held the title of the world’s most useful and 100% eco-friendly multi-purpose oil. Unlike competing oils, it’s also skin-safe and non-carcinogenic. People all over the world trust Ballistol to clean, lubricate, penetrate, protect and preserve their firearms, leather, wood, metal, rubber and plastic. With a mind-boggling range of applications, Ballistol is the recommended, must-have multi-tasking oil for in the know mechanics, plumbers, electricians, shooters, hunters, fishermen, and handymen all over the world.</p>",
+            "text_style": "body"
+          }
+        },
+        "3be0837f-785c-4ae6-be7b-0d05b9a904cc": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/all",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20121160384797__719e977d-1a9d-45a2-88b0-9272ced7df47-heading-1",
+        "template--20121160384797__719e977d-1a9d-45a2-88b0-9272ced7df47-text-1",
+        "3be0837f-785c-4ae6-be7b-0d05b9a904cc"
+      ],
+      "disabled": true,
+      "settings": {
+        "class_main": "",
+        "image": "shopify://shop_images/since-image1.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "scheme-3c0029fd-d92e-4dae-bd64-0633e03cf38d",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "daf0b920-7b7f-403f-927c-a84acb47b9d0": {
+      "type": "hero-banner",
+      "settings": {
+        "image": "https://cdn.shopify.com/videos/c/o/v/48f373397383497e868c2aef4d785645.mov",
+        "imagem": "https://cdn.shopify.com/videos/c/o/v/48f373397383497e868c2aef4d785645.mov",
+        "heading": "",
+        "bottomcontent": "SKIN-SAFE AND ENVIRONMENTALLY FRIENDLY, BALLISTOL CLEANS, LUBRICATES, PROTECTS AND PRESERVES JUST ABOUT ANYTHING.",
+        "button_label": "Shop Now",
+        "button_link": "shopify://collections/all",
+        "color_scheme": "inverse",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "9facb2c9-beb0-4279-b32d-6e0fc7af6d72": {
+      "type": "shop-by-category",
+      "blocks": {
+        "94b3dafc-4d4a-4deb-8bb5-4ac882bb385a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/MultiPurpose_Icon1_1.svg",
+            "heading": "MULTI-PURPOSE OIL",
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/multi-purpose-oil"
+          }
+        },
+        "1d49f987-040d-4019-9dd6-0e990599de16": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Gun_Icon_1.svg",
+            "heading": "GUN CARE",
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/gun-care"
+          }
+        },
+        "56b8aba9-10db-41d0-a7b0-cb83889a705b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Apparel_Icon_1.svg",
+            "heading": "ACCESSORIES",
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/accessories"
+          }
+        }
+      },
+      "block_order": [
+        "94b3dafc-4d4a-4deb-8bb5-4ac882bb385a",
+        "1d49f987-040d-4019-9dd6-0e990599de16",
+        "56b8aba9-10db-41d0-a7b0-cb83889a705b"
+      ],
+      "settings": {
+        "heading": "Shop By Category",
+        "color_scheme": "accent-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "2ada2f82-08e3-4042-b7a0-6a42ad97b4b4": {
+      "type": "testimonial-module-hacks",
+      "blocks": {
+        "a7c24d2b-3f9b-472f-97a7-c12b6956bfb1": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify://shop_images/HomeGarden_Icon-1.png",
+            "heading": "Home + Garden",
+            "button_link": "https://ballistol-usa.myshopify.com/pages/uses#home_garden"
+          }
+        },
+        "2889ced3-85bf-4f84-941f-76d7d032ee05": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify://shop_images/Leather_Icon-1_53e075bc-c979-4a56-8b5f-228c5a3598d6.png",
+            "heading": "Leather",
+            "button_link": "https://ballistol-usa.myshopify.com/pages/uses#leather_care"
+          }
+        },
+        "75d8c194-97ad-40c9-b64f-d07e14fb7586": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify://shop_images/Wood_Icons-1.png",
+            "heading": "Wood",
+            "button_link": "https://ballistol-usa.myshopify.com/pages/uses#wood_care"
+          }
+        },
+        "bab6b6e4-d287-4d82-8a1b-e319bf7e102e": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify://shop_images/Tool_Icon-1.png",
+            "heading": "Knives + Tools + Hardware",
+            "button_link": "https://ballistol-usa.myshopify.com/pages/uses#industry_manufacturing"
+          }
+        },
+        "3234b74e-8e94-49d7-90a1-a8f1395718c2": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify://shop_images/Metal_Icon-1.png",
+            "heading": "Metal",
+            "button_link": "https://ballistol-usa.myshopify.com/pages/uses#metal_care"
+          }
+        },
+        "ea74adb1-ef8c-4443-b8c6-0560c227db29": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify://shop_images/Gun_Icon-2.png",
+            "heading": "Gun Care",
+            "button_link": "https://ballistol-usa.myshopify.com/pages/uses#firmarm_care"
+          }
+        },
+        "7d3c1ca8-73af-4b1c-9ab3-71c7dc481e1e": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify://shop_images/Auto-Icon-1.png",
+            "heading": "Marine + Auto + Trail",
+            "button_link": "https://ballistol-usa.myshopify.com/pages/uses#motor_care"
+          }
+        },
+        "be2b6a37-d244-4bf3-b46e-d3fd539d1c0f": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify://shop_images/PaintPlastic_Icon-1.png",
+            "heading": "Plastic + Paint",
+            "button_link": "https://ballistol-usa.myshopify.com/pages/uses#plastic_care"
+          }
+        },
+        "69927fcc-24ce-491e-9fe5-38f9fb19c84f": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify://shop_images/Boating_Icon-1.png",
+            "heading": "Boating + Fishing",
+            "button_link": "https://ballistol-usa.myshopify.com/pages/uses#fishing_care"
+          }
+        }
+      },
+      "block_order": [
+        "a7c24d2b-3f9b-472f-97a7-c12b6956bfb1",
+        "2889ced3-85bf-4f84-941f-76d7d032ee05",
+        "75d8c194-97ad-40c9-b64f-d07e14fb7586",
+        "bab6b6e4-d287-4d82-8a1b-e319bf7e102e",
+        "3234b74e-8e94-49d7-90a1-a8f1395718c2",
+        "ea74adb1-ef8c-4443-b8c6-0560c227db29",
+        "7d3c1ca8-73af-4b1c-9ab3-71c7dc481e1e",
+        "be2b6a37-d244-4bf3-b46e-d3fd539d1c0f",
+        "69927fcc-24ce-491e-9fe5-38f9fb19c84f"
+      ],
+      "settings": {
+        "heading": "1,001 LIFE HACKS IN A CAN",
+        "color_scheme": "scheme-3c0029fd-d92e-4dae-bd64-0633e03cf38d",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "a7cdc3e2-ee46-4911-a2e2-3baec9337cfd": {
+      "type": "image-with-text-full",
+      "settings": {
+        "image": "shopify://shop_images/BA_fullwidth_1920_Heritage_1.png",
+        "imagem": "shopify://shop_images/mobile-banner.png",
+        "heading": "THE AMAZING STORY OF THE WORLD’S MOST USEFUL MULTI-USE OIL",
+        "button_label": "Learn More",
+        "button_link": "shopify://pages/about",
+        "color_scheme": "scheme-f68c7696-8623-49af-a7fc-8aa220b8f7fb",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_Geq3iH": {
+      "type": "custom-liquid",
+      "blocks": {
+        "ai_image_text_NPyf9Y": {
+          "type": "ai_image_text",
+          "settings": {
+            "image_position": "left",
+            "image_width": 50,
+            "spacing": 40,
+            "mobile_spacing": 24,
+            "image": "shopify://shop_images/Heavy_Machinery.jpg",
+            "image_aspect_ratio": "4/3",
+            "image_max_height_desktop": 350,
+            "image_max_height_mobile": 320,
+            "image_fit": "cover",
+            "image_border_radius": 8,
+            "heading": "The Oil That Never Calls It Quits",
+            "description": "<p>Ballistol has been solving tough lubrication problems since 1904. Originally created for the <a href=\"https://ballistol.com/pages/about\"><span style=\"text-decoration:underline\">German military</span></a>, this oil formula quickly proved it could handle whatever you threw at it - from freezing winters to desert heat. Today, mechanics, machinists, and equipment operators rely on it as their go-to solution because it simply works when other oils quit. Whether you're dealing with precision machinery or heavy industrial equipment, Ballistol keeps things running smooth.</p>",
+            "text_alignment": "left",
+            "text_spacing": 16,
+            "heading_size": 28,
+            "text_size": 16,
+            "heading_color": "#000000",
+            "text_color": "#666666",
+            "button_text": "",
+            "button_link": "",
+            "button_text_size": 14,
+            "button_padding_vertical": 12,
+            "button_padding_horizontal": 24,
+            "button_border_radius": 6,
+            "button_color": "#000000",
+            "button_text_color": "#ffffff",
+            "button_hover_color": "#333333"
+          }
+        }
+      },
+      "block_order": [
+        "ai_image_text_NPyf9Y"
+      ],
+      "name": "Image with text (blocks)",
+      "settings": {}
+    },
+    "custom_liquid_HdJMg7": {
+      "type": "custom-liquid",
+      "blocks": {
+        "ai_image_text_9X4Ggp": {
+          "type": "ai_image_text",
+          "settings": {
+            "image_position": "right",
+            "image_width": 50,
+            "spacing": 40,
+            "mobile_spacing": 24,
+            "image": "shopify://shop_images/Ballistol_Sqr_Image_HG-2.png",
+            "image_aspect_ratio": "4/3",
+            "image_max_height_desktop": 350,
+            "image_max_height_mobile": 320,
+            "image_fit": "cover",
+            "image_border_radius": 8,
+            "heading": "We Keep You Covered",
+            "description": "<p>Ballistol penetrates deep into metal parts, wood surfaces, and synthetic materials to restore their original condition while providing long-lasting rust protection. Our formula creates lasting barriers against moisture and environmental damage without leaving greasy residues. From exterior surfaces to intricate components, we deliver professional results in minutes.</p>",
+            "text_alignment": "left",
+            "text_spacing": 16,
+            "heading_size": 28,
+            "text_size": 16,
+            "heading_color": "#000000",
+            "text_color": "#666666",
+            "button_text": "",
+            "button_link": "",
+            "button_text_size": 14,
+            "button_padding_vertical": 12,
+            "button_padding_horizontal": 24,
+            "button_border_radius": 6,
+            "button_color": "#000000",
+            "button_text_color": "#ffffff",
+            "button_hover_color": "#333333"
+          }
+        }
+      },
+      "block_order": [
+        "ai_image_text_9X4Ggp"
+      ],
+      "name": "Image with text (blocks)",
+      "settings": {}
+    },
+    "custom_liquid_iqCHTF": {
+      "type": "custom-liquid",
+      "blocks": {
+        "ai_image_text_UT4rdp": {
+          "type": "ai_image_text",
+          "settings": {
+            "image_position": "left",
+            "image_width": 50,
+            "spacing": 40,
+            "mobile_spacing": 24,
+            "image": "shopify://shop_images/Power_Tools.jpg",
+            "image_aspect_ratio": "4/3",
+            "image_max_height_desktop": 350,
+            "image_max_height_mobile": 320,
+            "image_fit": "cover",
+            "image_border_radius": 8,
+            "heading": "One Formula. Dozens of Jobs. ",
+            "description": "<p>What sets Ballistol apart is its versatility - one bottle serves multiple purposes that would typically require several specialized products. Our multi-purpose lubricator maintains viscosity and never develops the waxy consistency of other lubricants. No matter if you're maintaining precision tools or protecting stored equipment, Ballistol provides superior lubrication and protection while remaining safe for frequent handling.</p>",
+            "text_alignment": "left",
+            "text_spacing": 16,
+            "heading_size": 28,
+            "text_size": 16,
+            "heading_color": "#000000",
+            "text_color": "#666666",
+            "button_text": "",
+            "button_link": "",
+            "button_text_size": 14,
+            "button_padding_vertical": 12,
+            "button_padding_horizontal": 24,
+            "button_border_radius": 6,
+            "button_color": "#000000",
+            "button_text_color": "#ffffff",
+            "button_hover_color": "#333333"
+          }
+        }
+      },
+      "block_order": [
+        "ai_image_text_UT4rdp"
+      ],
+      "name": "Image with text (blocks)",
+      "settings": {}
+    },
+    "blocks_mHmtCY": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_7a1e607_RiQdFM": {
+          "type": "ai_gen_block_7a1e607",
+          "settings": {
+            "image_position": "left",
+            "image_width": 50,
+            "spacing": 40,
+            "mobile_spacing": 24,
+            "image": "shopify://shop_images/Power_Tools.jpg",
+            "image_aspect_ratio": "4/3",
+            "image_max_height_desktop": 480,
+            "image_max_height_mobile": 320,
+            "image_fit": "cover",
+            "image_border_radius": 8,
+            "heading": "The Oil That Never Calls It Quits",
+            "description": "<p>Ballistol has been solving tough lubrication problems since 1904. Originally created for the <a href=\"https://ballistol.com/pages/about\"><span style=\"text-decoration:underline\">German military</span></a>, this oil formula quickly proved it could handle whatever you threw at it - from freezing winters to desert heat. Today, mechanics, machinists, and equipment operators rely on it as their go-to solution because it simply works when other oils quit. Whether you're dealing with precision machinery or heavy industrial equipment, Ballistol keeps things running smooth.</p>",
+            "text_alignment": "left",
+            "text_spacing": 16,
+            "heading_size": 28,
+            "text_size": 16,
+            "heading_color": "#000000",
+            "text_color": "#666666",
+            "button_text": "",
+            "button_link": "",
+            "button_text_size": 14,
+            "button_padding_vertical": 12,
+            "button_padding_horizontal": 24,
+            "button_border_radius": 6,
+            "button_color": "#000000",
+            "button_text_color": "#ffffff",
+            "button_hover_color": "#333333"
+          },
+          "blocks": {}
+        },
+        "ai_gen_block_7a1e607_rejBtK": {
+          "type": "ai_gen_block_7a1e607",
+          "settings": {
+            "image_position": "right",
+            "image_width": 50,
+            "spacing": 40,
+            "mobile_spacing": 24,
+            "image": "shopify://shop_images/Ballistol_Sqr_Image_HG-2.png",
+            "image_aspect_ratio": "1/1",
+            "image_max_height_desktop": 480,
+            "image_max_height_mobile": 320,
+            "image_fit": "cover",
+            "image_border_radius": 8,
+            "heading": "We Keep You Covered",
+            "description": "<p>Ballistol penetrates deep into metal parts, wood surfaces, and synthetic materials to restore their original condition while providing long-lasting rust protection. Our formula creates lasting barriers against moisture and environmental damage without leaving greasy residues. From exterior surfaces to intricate components, we deliver professional results in minutes.</p>",
+            "text_alignment": "left",
+            "text_spacing": 16,
+            "heading_size": 28,
+            "text_size": 16,
+            "heading_color": "#000000",
+            "text_color": "#666666",
+            "button_text": "",
+            "button_link": "",
+            "button_text_size": 14,
+            "button_padding_vertical": 12,
+            "button_padding_horizontal": 24,
+            "button_border_radius": 6,
+            "button_color": "#000000",
+            "button_text_color": "#ffffff",
+            "button_hover_color": "#333333"
+          },
+          "blocks": {}
+        },
+        "ai_gen_block_7a1e607_nVJLBc": {
+          "type": "ai_gen_block_7a1e607",
+          "settings": {
+            "image_position": "left",
+            "image_width": 50,
+            "spacing": 40,
+            "mobile_spacing": 24,
+            "image": "shopify://shop_images/Ballistol_Package_A_New.png",
+            "image_aspect_ratio": "1/1",
+            "image_max_height_desktop": 480,
+            "image_max_height_mobile": 320,
+            "image_fit": "cover",
+            "image_border_radius": 8,
+            "heading": "One Formula. Dozens of Jobs. ",
+            "description": "<p>What sets Ballistol apart is its versatility - one bottle serves multiple purposes that would typically require several specialized products. Our multi-purpose lubricator maintains viscosity and never develops the waxy consistency of other lubricants. No matter if you're maintaining precision tools or protecting stored equipment, Ballistol provides superior lubrication and protection while remaining safe for frequent handling.</p>",
+            "text_alignment": "left",
+            "text_spacing": 16,
+            "heading_size": 28,
+            "text_size": 16,
+            "heading_color": "#000000",
+            "text_color": "#666666",
+            "button_text": "",
+            "button_link": "",
+            "button_text_size": 14,
+            "button_padding_vertical": 12,
+            "button_padding_horizontal": 24,
+            "button_border_radius": 6,
+            "button_color": "#000000",
+            "button_text_color": "#ffffff",
+            "button_hover_color": "#333333"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_7a1e607_RiQdFM",
+        "ai_gen_block_7a1e607_rejBtK",
+        "ai_gen_block_7a1e607_nVJLBc"
+      ],
+      "disabled": true,
+      "name": "Image with text",
+      "settings": {}
+    },
+    "16b069a3-422a-42f0-94b4-f8c5dd493a47": {
+      "type": "bg-image-with-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/BA_FAQ_question_image_1.png",
+        "heading": "YOU’VE GOT QUESTIONS, WE’VE GOT ANSWERS.",
+        "button_label": "FAQs",
+        "button_link": "shopify://pages/uses",
+        "color_scheme": "scheme-f68c7696-8623-49af-a7fc-8aa220b8f7fb",
+        "padding_top": 44,
+        "padding_bottom": 44
+      }
+    },
+    "bg_image_with_text_iKFkCX": {
+      "type": "bg-image-with-text",
+      "settings": {
+        "image": "shopify://shop_images/BA_FAQ_question_image_1.png",
+        "heading": "<strong>Discover The Other Uses Of Ballistol </strong>",
+        "button_label": "Uses",
+        "button_link": "shopify://pages/uses",
+        "color_scheme": "scheme-f68c7696-8623-49af-a7fc-8aa220b8f7fb",
+        "padding_top": 44,
+        "padding_bottom": 44
+      }
+    },
+    "collapsible_content_6m4NDF": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_d4AFzw": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What makes Ballistol different from standard oil products?",
+            "icon": "question_mark",
+            "row_content": "<p>Ballistol contains specialized additives that enhance its capabilities far beyond basic mineral oils. While standard oil provides basic lubrication, our formula includes alkaline compounds that neutralize acids, prevent rust formation, and maintain consistent performance across temperature ranges. This makes it suitable for both industrial applications and precision work where standard oils fail.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_fJ6dxT": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How does this oil perform on different materials and surfaces?",
+            "icon": "question_mark",
+            "row_content": "<p>Ballistol is uniquely formulated to work effectively on metal, wood, leather, rubber, and most plastic surfaces. The white oil base penetrates deeply into materials to restore their original condition while providing long-lasting protection. Unlike many products that are limited to specific materials, our formula adapts to each surface type and can be applied at room temperature for immediate results.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_y6Qzgb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What professional applications benefit most from using Ballistol?",
+            "icon": "question_mark",
+            "row_content": "<p>Ballistol serves numerous professional applications, including precision instrument maintenance, machinery lubrication, and equipment protection. The high-quality formula works excellently as a machine oil while providing rust protection for exterior surfaces and metal parts under heavy use. Many facilities appreciate that one product can serve multiple purposes, reducing inventory needs and simplifying maintenance procedures.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_LpeYtM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long has Ballistol been trusted by professionals?",
+            "icon": "question_mark",
+            "row_content": "<p>Ballistol has been trusted by professionals for over 120 years, originally developed for the German military in 1904. This time-tested formula has proven its reliability across generations of users, from mechanics and electricians to hunters and craftsmen. The consistent quality and performance have made it a staple in toolboxes and workshops worldwide.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_JKmqAz": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How should I store and apply Ballistol for best results?",
+            "icon": "question_mark",
+            "row_content": "<p>Store your bottle at room temperature away from direct sunlight to maintain optimal performance. Apply Ballistol sparingly using clean application tools - a little goes a long way. For most applications, simply apply a thin coat and allow a few minutes for penetration. The oil begins working immediately, providing both lubrication and protection that lasts longer than conventional products.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_d4AFzw",
+        "collapsible_row_fJ6dxT",
+        "collapsible_row_y6Qzgb",
+        "collapsible_row_LpeYtM",
+        "collapsible_row_JKmqAz"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "<strong>Frequently Asked Questions</strong>",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "72645d7c-3320-48be-ab15-8776cee2ece1": {
+      "type": "testimonial-slider",
+      "blocks": {
+        "6692d46d-0732-4053-9c70-cd10c7f46c1b": {
+          "type": "slider",
+          "settings": {
+            "heading": "I use it to clean and coat my loppers and pruners to prevent them from rusting.",
+            "subheading": "Allen Tang"
+          }
+        },
+        "c172fe33-b0bb-4047-9f52-84a0fda3b59d": {
+          "type": "slider",
+          "settings": {
+            "heading": "Ballistolis the best!!! It’s always in my range bag!!!",
+            "subheading": "Rick Hines"
+          }
+        },
+        "953633ac-1a0c-49e6-bfab-9214d92c4c06": {
+          "type": "slider",
+          "settings": {
+            "heading": "This is truly some of the best stuff I’ve ever used on my modern, muzzleloaders and fishing gear.",
+            "subheading": "Jimmy Sommese"
+          }
+        },
+        "b276a309-0aff-4a9d-8e4c-bdb67d0f95d3": {
+          "type": "slider",
+          "settings": {
+            "heading": "Used many different gun cleaners. None did what they claimed. Then tried Ballistol. Needless to say, all my other cleaners and oils are now gone.",
+            "subheading": "Kristen Joseph Call"
+          }
+        },
+        "ae33693a-80c0-4c30-aac7-39a5e8259658": {
+          "type": "slider",
+          "settings": {
+            "heading": "Been selling and using Ballistol for years. It’s the best. We recommend it to all our customers.",
+            "subheading": "Michael Hassel, King Pawn & Gun"
+          }
+        },
+        "e02c7222-e542-4ab7-9507-f1faf8c09193": {
+          "type": "slider",
+          "settings": {
+            "heading": "Love this stuff!",
+            "subheading": "Michael Anderson"
+          }
+        },
+        "71bea462-e8cf-416c-bdd3-4789104b1723": {
+          "type": "slider",
+          "settings": {
+            "heading": "Great product for guns, wood, leather. You can even restore boat gelcoat with it!",
+            "subheading": "John Rooney"
+          }
+        },
+        "5530e920-4fde-4f00-bca5-898f9a6a03bf": {
+          "type": "slider",
+          "settings": {
+            "heading": "This stuff is the best, without question. I love it so much I proudly wear a Ballistol hat.",
+            "subheading": "Mike Zadorozny"
+          }
+        },
+        "6e2807c0-4a0d-40a6-af04-5dfcce8dc8df": {
+          "type": "slider",
+          "settings": {
+            "heading": "Worth every penny",
+            "subheading": "Jeff Jackson"
+          }
+        },
+        "61cad07c-e27b-4ed4-ab29-2929f5614893": {
+          "type": "slider",
+          "settings": {
+            "heading": "The best.",
+            "subheading": "Steve Dandini"
+          }
+        },
+        "d6591bb8-a5dc-4483-8580-b472a70ad375": {
+          "type": "slider",
+          "settings": {
+            "heading": "You can’t beat this stuff!",
+            "subheading": "Kenny Sizemore"
+          }
+        },
+        "a554da93-4c6c-4a30-8667-6f753abb2134": {
+          "type": "slider",
+          "settings": {
+            "heading": "Clean and lube in one shot. The best!",
+            "subheading": "Charlie Puza"
+          }
+        },
+        "5e7bfc6f-7afc-482b-8fe2-f04c62153b33": {
+          "type": "slider",
+          "settings": {
+            "heading": "Hada lock completely rusted shut. Soaked it in Ballistol for 24 hours and still use it today.",
+            "subheading": "Greg Brockman"
+          }
+        },
+        "fbb979ea-f914-4cac-a675-cc6a789163d5": {
+          "type": "slider",
+          "settings": {
+            "heading": "Beststuff on the planet!",
+            "subheading": "Jeff Martin"
+          }
+        },
+        "a3cb7fd5-19d0-481b-b38d-4849b07682d9": {
+          "type": "slider",
+          "settings": {
+            "heading": "Amen to Ballistol ",
+            "subheading": "Skip White"
+          }
+        }
+      },
+      "block_order": [
+        "6692d46d-0732-4053-9c70-cd10c7f46c1b",
+        "c172fe33-b0bb-4047-9f52-84a0fda3b59d",
+        "953633ac-1a0c-49e6-bfab-9214d92c4c06",
+        "b276a309-0aff-4a9d-8e4c-bdb67d0f95d3",
+        "ae33693a-80c0-4c30-aac7-39a5e8259658",
+        "e02c7222-e542-4ab7-9507-f1faf8c09193",
+        "71bea462-e8cf-416c-bdd3-4789104b1723",
+        "5530e920-4fde-4f00-bca5-898f9a6a03bf",
+        "6e2807c0-4a0d-40a6-af04-5dfcce8dc8df",
+        "61cad07c-e27b-4ed4-ab29-2929f5614893",
+        "d6591bb8-a5dc-4483-8580-b472a70ad375",
+        "a554da93-4c6c-4a30-8667-6f753abb2134",
+        "5e7bfc6f-7afc-482b-8fe2-f04c62153b33",
+        "fbb979ea-f914-4cac-a675-cc6a789163d5",
+        "a3cb7fd5-19d0-481b-b38d-4849b07682d9"
+      ],
+      "settings": {
+        "heading": "AWW SHUCKS, OUR CUSTOMERS SAY THE NICEST THINGS.",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "3438e4ee-5189-4397-83fc-ca0a2ce8060e": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20121160384797__3438e4ee-5189-4397-83fc-ca0a2ce8060e-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--20121160384797__3438e4ee-5189-4397-83fc-ca0a2ce8060e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "In the US, Ballistol was originally sold as Ballistol Lube and Sportsman’s Lube. It quickly became the CLP of choice for black powder shooters. Today, Ballistol USA has is sold in over 2k retail locations as Ballistol Multi-Purpose Oil. Whether you need to clean a firearm, prevent rust, rejuvenate leather, waterproof boots, loosen a rusty bolt, fix a squeaky hinge…Ballistol does it all.",
+            "text_style": "body"
+          }
+        },
+        "template--20121160384797__3438e4ee-5189-4397-83fc-ca0a2ce8060e-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Now",
+            "button_link_1": "#",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20121160384797__3438e4ee-5189-4397-83fc-ca0a2ce8060e-heading-1",
+        "template--20121160384797__3438e4ee-5189-4397-83fc-ca0a2ce8060e-text-1",
+        "template--20121160384797__3438e4ee-5189-4397-83fc-ca0a2ce8060e-buttons-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/BA_Fullwidth_Image_LIfestyle1_1.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "5bd1593b-dd57-4a51-aa98-c381fb0511b6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20121160384797__5bd1593b-dd57-4a51-aa98-c381fb0511b6-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "MEDIA DOWNLOADS",
+            "heading_size": "h1"
+          }
+        },
+        "template--20121160384797__5bd1593b-dd57-4a51-aa98-c381fb0511b6-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Product Photos",
+            "button_link": "shopify://collections/all",
+            "button_style_secondary": false,
+            "button_label_2": "Product Data Sheets",
+            "button_link_2": "#",
+            "button_style_secondary_2": false,
+            "button_label_3": "",
+            "button_link_3": "",
+            "button_style_secondary_3": false,
+            "button_label_4": "",
+            "button_link_4": "",
+            "button_style_secondary_4": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20121160384797__5bd1593b-dd57-4a51-aa98-c381fb0511b6-heading-1",
+        "template--20121160384797__5bd1593b-dd57-4a51-aa98-c381fb0511b6-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "custom_liquid_GHmKEc": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {}
+    }
+  },
+  "order": [
+    "719e977d-1a9d-45a2-88b0-9272ced7df47",
+    "daf0b920-7b7f-403f-927c-a84acb47b9d0",
+    "9facb2c9-beb0-4279-b32d-6e0fc7af6d72",
+    "2ada2f82-08e3-4042-b7a0-6a42ad97b4b4",
+    "a7cdc3e2-ee46-4911-a2e2-3baec9337cfd",
+    "custom_liquid_Geq3iH",
+    "custom_liquid_HdJMg7",
+    "custom_liquid_iqCHTF",
+    "blocks_mHmtCY",
+    "16b069a3-422a-42f0-94b4-f8c5dd493a47",
+    "bg_image_with_text_iKFkCX",
+    "collapsible_content_6m4NDF",
+    "72645d7c-3320-48be-ab15-8776cee2ece1",
+    "3438e4ee-5189-4397-83fc-ca0a2ce8060e",
+    "5bd1593b-dd57-4a51-aa98-c381fb0511b6",
+    "custom_liquid_GHmKEc"
+  ]
+}

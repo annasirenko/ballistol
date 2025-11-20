@@ -1,0 +1,179 @@
+{%- style -%}
+  .section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+.tst-sldr-lft{width:50%;}
+.tst-sldr-rght {width: 50%; padding: 0 25px;}
+ .tst-sldr-rght-slider {  background: #00A113;     border-radius: 20px;} 
+.tst-sldr-lft h2 {font-size: 40px;font-weight: 400;line-height: 60px;letter-spacing: 0em;text-align: left;max-width: 450px; margin: 0 auto;}
+  .section-{{ section.id }}-padding button.slick-prev {left: -30px;}
+  .section-{{ section.id }}-padding .slick-arrow { position: absolute; top: 50%;background: transparent;  border: 0;  transform: translateY(-50%);}
+.section-{{ section.id }}-padding button.slick-next { right: -26px;}  
+  
+.tst-sldr-rght-slider .item { padding: 20px 30px;}
+
+.tst-sldr-rght-slider .item h3{color: #FFF7F7;font-size: 24px;font-weight: 400;line-height: 36px;text-align: left;    font-family: var(--font-body-family);
+        font-style: var(--font-body-style);
+        font-weight: var(--font-body-weight);}
+.tst-sldr-rght-slider .item span{color: #FFF7F7;font-size: 24px;font-weight: 400;line-height: 36px;text-align: left;}
+  button.slick-next,
+  button.slick-prev{  cursor: pointer;}
+
+
+
+  
+  @media screen and (min-width: 750px) {
+    .section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
+
+@media screen and (max-width: 1280px) {
+
+}
+
+@media screen and (max-width: 1100px) {
+.tst-sldr-lft h2 { font-size: 34px; line-height: 50px;}
+.tst-sldr-rght-slider .item h3 { font-size: 20px;  line-height: 32px;}  
+}
+  
+  
+@media screen and (min-width: 990px) {
+
+ }
+  
+
+@media screen and (max-width: 989px) {
+.tst-sldr-lft h2 {    font-size: 30px;   line-height: 44px;  text-align: center;  margin-bottom: 40px;}
+.tst-sldr-lft { width: 100%;}
+.tst-sldr-rght { width: 100%;}
+.tst-sldr-rght-slider .item h3 {
+    font-size: 18px;
+    line-height: 30px;
+}
+.tst-sldr-rght-slider .item span {    font-size: 20px;    line-height: 34px;}  
+}
+
+@media screen and (max-width: 767px) {
+
+}
+  
+@media screen and (max-width: 500px) {
+.tst-sldr-lft h2 { font-size: 22px; line-height: 36px;   margin-bottom: 30px;}
+.tst-sldr-rght-slider .item { padding: 10px 30px 20px;}
+
+}
+
+  
+{%- endstyle -%}
+
+
+<div class="color-{{ section.settings.color_scheme }} gradient section-{{ section.id }}-padding">
+
+    <div class="tst-sldr-main">
+         <div class="page-width">
+               <div class="tst-sldr-main-inner flex flex-flow align-item-center justify-center">
+                  {% if section.settings.heading != blank %}  
+                 <div class="tst-sldr-lft">
+                 <h2>{{ section.settings.heading }}</h2>
+                 </div>
+                     {% endif %}
+                 <div class="tst-sldr-rght">
+                     <div class="tst-sldr-rght-slider">
+                        {% for block in section.blocks %} 
+                                 <div class="item">
+                                   {% if block.settings.heading != blank %}    <h3>{{ block.settings.heading }}</h3> {% endif %}
+                                 {% if block.settings.subheading != blank %}    <span>– {{ block.settings.subheading }}</span> {% endif %}
+                                 </div>
+                        {% endfor %}
+             
+                     </div>
+                 </div>
+         </div>
+      </div>
+  </div>
+</div>
+
+
+
+
+
+{% schema %}
+{
+  "name": "Testimonial Slider",
+  "tag": "section",
+  "class": "section",
+  "settings": [
+    {
+     "type": "inline_richtext",
+     "id": "heading",
+     "default": "Talk about your brand",
+     "label": "t:sections.rich-text.blocks.heading.settings.heading.label"
+    },
+    {
+      "type": "color_scheme",
+      "id": "color_scheme",
+      "label": "t:sections.all.colors.label",
+      "default": "background-1"
+    },
+    {
+      "type": "header",
+      "content": "t:sections.all.padding.section_padding_heading"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_top",
+      "default": 40
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_bottom",
+      "default": 52
+    }
+  ],
+      "blocks": [
+    {
+      "type": "slider",
+      "name": "Slider",
+      "settings": [
+    {
+     "type": "inline_richtext",
+     "id": "heading",
+     "default": "Talk about your brand",
+     "label": "t:sections.rich-text.blocks.heading.settings.heading.label"
+    },
+     {
+     "type": "inline_richtext",
+     "id": "subheading",
+     "default": "Talk about your brand",
+     "label": "Sub heading"
+    }    
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Testimonial Slider"
+    }
+  ]
+}
+{% endschema %}
+
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

@@ -1,0 +1,378 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "5a587c3d-671a-43e3-ba4b-320e14e2b925": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20381262020893__5a587c3d-671a-43e3-ba4b-320e14e2b925-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "GET THE DOWN-LOW ON BALLISTOL VIA OUR HANDY DOWNLOADS."
+          }
+        }
+      },
+      "block_order": [
+        "template--20381262020893__5a587c3d-671a-43e3-ba4b-320e14e2b925-heading-1"
+      ],
+      "settings": {
+        "class_main": "media_banner",
+        "image": "shopify://shop_images/Ballistol_Can_Isolated-1_7c0a7ae2-f354-4199-b77e-1def562d3a07.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "801447d0-c987-469f-906f-8c51411a3f9e": {
+      "type": "media-datasheet",
+      "blocks": {
+        "421f170b-aec5-413a-b52c-9fa61ce8e8aa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SDS_Aerosol_Image_1.png",
+            "title": "Aerosol Safety  Data Sheet",
+            "link": "https://cdn.shopify.com/s/files/1/0723/3621/2253/files/SDS-WTC-Ballistol-Multi-Purpose-Aerosol-Revision-9.pdf?v=1694022408"
+          }
+        },
+        "242e7ad1-fe16-4040-be5e-999d41c85799": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SDS_Non-Aersol_Image_1.png",
+            "title": "Non-Aerosol  Safety Data Sheet",
+            "link": "https://cdn.shopify.com/s/files/1/0723/3621/2253/files/SDS-WTC-Ballistol-Multi-Purpose-Liquid-Revision-4.pdf?v=1694022408"
+          }
+        }
+      },
+      "block_order": [
+        "421f170b-aec5-413a-b52c-9fa61ce8e8aa",
+        "242e7ad1-fe16-4040-be5e-999d41c85799"
+      ],
+      "settings": {
+        "title": "PRODUCT DATA SHEETS",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "c2e767d9-ac8f-4dac-8a8e-1f79a42edc88": {
+      "type": "media-video",
+      "blocks": {
+        "4dbef9d5-ef76-4553-908c-645bc45089cc": {
+          "type": "video",
+          "settings": {
+            "enable_video_looping": false,
+            "video_url": "https://youtu.be/4j6_-UUUEek",
+            "cover_image": "shopify://shop_images/AK.cleaning.video.jpg",
+            "title": "AK Corrosive Ammo Cleaning",
+            "content": ""
+          }
+        },
+        "bea1d9cf-9463-4cd3-962d-a2bd270ed758": {
+          "type": "video",
+          "settings": {
+            "enable_video_looping": false,
+            "video_url": "https://youtu.be/DZf4mUM10Vc?si=ilDsDlu-j_hT8SL2",
+            "cover_image": "shopify://shop_images/Glock.cleaning.1.jpg",
+            "title": "Glock Cleaning Basics",
+            "content": ""
+          }
+        },
+        "6de013d1-e534-466d-819e-f57550287cca": {
+          "type": "video",
+          "settings": {
+            "enable_video_looping": false,
+            "video_url": "https://youtu.be/7VTIqAMPOco?si=vDs21IvA3qswxlZw",
+            "cover_image": "shopify://shop_images/Glock.cleaning2.jpg",
+            "title": "Glock Cleaning 2",
+            "content": ""
+          }
+        },
+        "47c3d59d-b178-40a5-9964-b1c807948066": {
+          "type": "video",
+          "settings": {
+            "enable_video_looping": false,
+            "video_url": "https://youtu.be/xRktR0rAVBo?si=q9LJLXu9Sz1MiNV_",
+            "cover_image": "shopify://shop_images/Knife.cleaning.video.jpg",
+            "title": "Ballistol...Good for knives?",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "4dbef9d5-ef76-4553-908c-645bc45089cc",
+        "bea1d9cf-9463-4cd3-962d-a2bd270ed758",
+        "6de013d1-e534-466d-819e-f57550287cca",
+        "47c3d59d-b178-40a5-9964-b1c807948066"
+      ],
+      "settings": {
+        "title": "VIDEOS",
+        "color_scheme": "background-2",
+        "padding_top": 40,
+        "padding_bottom": 16,
+        "title_color": "#00a113"
+      }
+    },
+    "5a55d54c-5a0e-4b90-953b-5c969d268924": {
+      "type": "media-article",
+      "blocks": {
+        "b9954e6c-ab57-448d-97f9-00ecb619d3fa": {
+          "type": "column",
+          "settings": {
+            "title": "<a href=\"http://popularmilitary.com/ballistol-multi-purpose-gun-oil-review/\" target=\"_blank\">Ballistol Multi-Purpose Gun Oil review</a>",
+            "text": "<p>by Popular Military</p>",
+            "link": "https://popularmilitary.com/ballistol-multi-purpose-gun-oil-review/"
+          }
+        },
+        "5f074cd9-5fc8-4d12-a34f-56e98235ee07": {
+          "type": "column",
+          "settings": {
+            "title": "Gun Maintenance: 10 Eco-Friendly Cleaners",
+            "text": "<p>by Athlon Outdoors</p>",
+            "link": "https://www.athlonoutdoors.com/article/10-eco-friendly-cleaners/?#twfm16-eco-lead"
+          }
+        },
+        "586e556d-96a2-49ed-a9e4-6a12574e93d0": {
+          "type": "column",
+          "settings": {
+            "title": "Dirty Guns",
+            "text": "<p>by Richard Mann</p>",
+            "link": "https://empty-cases.com/blog/dirty-guns/"
+          }
+        },
+        "c974bf3e-a1c5-4401-80fd-aaf037771495": {
+          "type": "column",
+          "settings": {
+            "title": "Keepin' 'em cleaned and oiled",
+            "text": "<p>by American Hunter</p>",
+            "link": "https://www.americanhunter.org/articles/2013/7/9/keepin-em-cleaned-and-oiled/"
+          }
+        }
+      },
+      "block_order": [
+        "b9954e6c-ab57-448d-97f9-00ecb619d3fa",
+        "5f074cd9-5fc8-4d12-a34f-56e98235ee07",
+        "586e556d-96a2-49ed-a9e4-6a12574e93d0",
+        "c974bf3e-a1c5-4401-80fd-aaf037771495"
+      ],
+      "settings": {
+        "heading": "ARTICLES ABOUT BALLISTOL",
+        "color_scheme": "scheme-3c0029fd-d92e-4dae-bd64-0633e03cf38d",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "6ee9f280-71ef-4016-b824-e5ff38b3cc90": {
+      "type": "media-multicolumn",
+      "blocks": {
+        "template--20679037190429__6ee9f280-71ef-4016-b824-e5ff38b3cc90-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BA_Shopify_1.5oz_aerosol.jpg",
+            "title": "Ballistol 1.5 oz aerosol can",
+            "text": "",
+            "link": "https://cdn.shopify.com/s/files/1/0723/3621/2253/files/BA_Shopify_1.5oz_aerosol.jpg"
+          }
+        },
+        "template--20679037190429__6ee9f280-71ef-4016-b824-e5ff38b3cc90-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BA_ShopifyOptimized_Package-C_ad848547-ee6c-4d86-8850-b231baf37820.jpg",
+            "title": "<strong>Ballistol 6 oz aerosol can</strong>",
+            "text": "",
+            "link": "https://cdn.shopify.com/s/files/1/0723/3621/2253/files/BA_ShopifyOptimized_3MultiPurp_Oil_1.jpg?v=1693369058"
+          }
+        },
+        "template--20679037190429__6ee9f280-71ef-4016-b824-e5ff38b3cc90-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BA_ShopifyOptimized_4oz_Non-Aero.jpg",
+            "title": "<strong>Ballistol 4 fl oz non-aerosol liquid </strong>",
+            "text": "",
+            "link": "https://cdn.shopify.com/s/files/1/0723/3621/2253/files/BA_ShopifyOptimized_4oz_Non-Aero.jpg?v=1693369123"
+          }
+        },
+        "a937f161-7c54-45a5-8cf5-0e7461d2a4b8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BA_ShopifyOptimized_Package-B_d7841f28-cec7-4553-8c8a-d84726476f08.jpg",
+            "title": "<strong>6 oz aerosol can, 16fl oz non-aerosol liquid</strong>",
+            "text": "",
+            "link": "https://cdn.shopify.com/s/files/1/0723/3621/2253/files/BA_ShopifyOptimized_Package-B_d7841f28-cec7-4553-8c8a-d84726476f08.jpg?v=1693369192"
+          }
+        },
+        "3a1b89de-d73c-49df-a1f3-6ae6f8facbf8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BA_ShopifyOptimized_BenchMat_86773c9a-7927-4d28-8c66-abcb4373be3f.jpg",
+            "title": "<strong>Ballistol Gun Cleaning Bench Mat</strong>",
+            "text": "",
+            "link": "https://cdn.shopify.com/s/files/1/0723/3621/2253/files/BA_ShopifyOptimized_BenchMat_86773c9a-7927-4d28-8c66-abcb4373be3f.jpg?v=1693378968"
+          }
+        },
+        "b86619c4-10d0-4e7a-b993-0555f3bdca68": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BA_ShopifyOptimized_Package-A_d3fccb91-b84d-4742-ac0e-a21f84ce0f20.jpg",
+            "title": "Ballistol 6oz Aerosol Can, 4 fl oz Non-aerosol Liquid, Box of 10 Wipes",
+            "text": "",
+            "link": ""
+          }
+        },
+        "33f6db5f-f7a8-416b-ba19-a26245cf6550": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BA_ShopifyOptimized_Package-D_bcdfa2d6-69ef-49b5-9ca9-6b15ac9d1c68.jpg",
+            "title": "Ballistol Two 16 fl oz non-aerosol liquid cans with trigger sprayer",
+            "text": "",
+            "link": "https://cdn.shopify.com/s/files/1/0723/3621/2253/files/BA_ShopifyOptimized_Package-D_5264e02c-13d7-48ed-b289-8abf46eb5877.jpg?v=1693369765"
+          }
+        },
+        "5a1ea5d1-e147-49f7-8bf6-34178b9673ad": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BA_ShopifyOptimized_Package-G_65a1bb5f-b0ce-48a7-8ed7-ee3621b86461.jpg",
+            "title": "<strong>5 cans of BALLISTOL 1.5oz aerosol Multi-Purpose Oil</strong>",
+            "text": "",
+            "link": "https://cdn.shopify.com/s/files/1/0723/3621/2253/files/BA_ShopifyOptimized_Package-G_65a1bb5f-b0ce-48a7-8ed7-ee3621b86461.jpg?v=1693369780"
+          }
+        },
+        "ebe3c9c2-82dc-4c9e-bb09-940ab0f69a0a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Left_-_Images.png",
+            "title": "<strong>Ballistol Box of 10 Wipes</strong>",
+            "text": "",
+            "link": "https://cdn.shopify.com/s/files/1/0723/3621/2253/files/BA_ShopifyOptimized_10pkWipes.jpg?v=1693371552"
+          }
+        },
+        "c1fb989b-f7e4-4656-a0ec-4a0a5c0e4dbd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BA_ShopifyOptimized_Package-F_6cbe050c-855a-4cd1-9cd2-ec9591f7a5f7.jpg",
+            "title": "<strong>1 gallon of Ballistol Multi-Use Oil</strong>",
+            "text": "",
+            "link": "https://cdn.shopify.com/s/files/1/0723/3621/2253/files/BA_ShopifyOptimized_Package-F_6cbe050c-855a-4cd1-9cd2-ec9591f7a5f7.jpg?v=1693371568"
+          }
+        },
+        "d0a94fee-fb42-4ae5-aae2-740a7a4846ce": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BA_ShopifyOptimized_6oz_Aero.jpg",
+            "title": "<strong>Ballistol</strong> <strong>6 oz aerosol can</strong>",
+            "text": "",
+            "link": "https://cdn.shopify.com/s/files/1/0723/3621/2253/files/BA_ShopifyOptimized_6oz_Aero.jpg?v=1693371582"
+          }
+        },
+        "e767f6a6-7cf9-47ce-98c7-325d8517101a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BA_ShopifyOptimized_16ozSuppressor.jpg",
+            "title": "Ballistol Suppressor Cleaner 16.9 fl oz",
+            "text": "",
+            "link": "https://cdn.shopify.com/s/files/1/0723/3621/2253/files/BA_ShopifyOptimized_16ozSuppressor.jpg?v=1693375171"
+          }
+        },
+        "29672c9c-d72d-4533-9a79-4740f1519539": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/6_1.png",
+            "title": "Ballistol Multi-Purpose Oil Display",
+            "text": "",
+            "link": "https://cdn.shopify.com/s/files/1/0723/3621/2253/files/6_1.png?v=1693498400"
+          }
+        },
+        "32a2152a-ced8-48e7-9148-cf84d8c5f8d3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BA_ShopifyOptimized_Package-E.jpg",
+            "title": "<strong>Ballistol</strong> <strong>Five Boxes of Wipes (10 wipes per box)</strong>",
+            "text": "",
+            "link": "https://cdn.shopify.com/s/files/1/0723/3621/2253/files/BA_ShopifyOptimized_Package-E.jpg?v=1692383530"
+          }
+        },
+        "47239b81-84a0-4992-9c11-0ad89d7f1946": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BA_ShopifyOptimized_CleaningCloth_de4da1d0-b1b1-4dcc-9892-6e97c5a572b8.jpg",
+            "title": "Ballistol Special Cleaning Cloth (3 pack)",
+            "text": "",
+            "link": "https://cdn.shopify.com/s/files/1/0723/3621/2253/files/BA_ShopifyOptimized_CleaningCloth.jpg?v=1692391224"
+          }
+        },
+        "791314b1-48d3-4c93-8034-6350d15b9429": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BA_ShopifyOptimized_Suppressor_Pkg.jpg",
+            "title": "Ballistol Suppressor Cleaner (2 pack with rubber corks)",
+            "text": "",
+            "link": "https://cdn.shopify.com/s/files/1/0723/3621/2253/files/BA_ShopifyOptimized_SuppressorPkg.jpg?v=1692393343"
+          }
+        }
+      },
+      "block_order": [
+        "template--20679037190429__6ee9f280-71ef-4016-b824-e5ff38b3cc90-column-1",
+        "template--20679037190429__6ee9f280-71ef-4016-b824-e5ff38b3cc90-column-2",
+        "template--20679037190429__6ee9f280-71ef-4016-b824-e5ff38b3cc90-column-3",
+        "a937f161-7c54-45a5-8cf5-0e7461d2a4b8",
+        "3a1b89de-d73c-49df-a1f3-6ae6f8facbf8",
+        "b86619c4-10d0-4e7a-b993-0555f3bdca68",
+        "33f6db5f-f7a8-416b-ba19-a26245cf6550",
+        "5a1ea5d1-e147-49f7-8bf6-34178b9673ad",
+        "ebe3c9c2-82dc-4c9e-bb09-940ab0f69a0a",
+        "c1fb989b-f7e4-4656-a0ec-4a0a5c0e4dbd",
+        "d0a94fee-fb42-4ae5-aae2-740a7a4846ce",
+        "e767f6a6-7cf9-47ce-98c7-325d8517101a",
+        "29672c9c-d72d-4533-9a79-4740f1519539",
+        "32a2152a-ced8-48e7-9148-cf84d8c5f8d3",
+        "47239b81-84a0-4992-9c11-0ad89d7f1946",
+        "791314b1-48d3-4c93-8034-6350d15b9429"
+      ],
+      "settings": {
+        "title": "PRODUCT PHOTOS",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 48
+      }
+    }
+  },
+  "order": [
+    "main",
+    "5a587c3d-671a-43e3-ba4b-320e14e2b925",
+    "801447d0-c987-469f-906f-8c51411a3f9e",
+    "c2e767d9-ac8f-4dac-8a8e-1f79a42edc88",
+    "5a55d54c-5a0e-4b90-953b-5c969d268924",
+    "6ee9f280-71ef-4016-b824-e5ff38b3cc90"
+  ]
+}

@@ -1,0 +1,104 @@
+{%- style -%}
+  .section-{{ section.id }}-padding {
+    padding-top: calc({{ section.settings.padding_top }}px * 0.75);
+    padding-bottom: calc({{ section.settings.padding_bottom }}px  * 0.75);
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
+.section-{{ section.id }}-padding .page-width{max-width:980px;}
+.section-{{ section.id }}-padding .locae-header-left h2{font-size: 70px; font-weight: 400;line-height: 66px;letter-spacing: 1px;margin: 0 0px;} 
+.section-{{ section.id }}-padding .locae-header-left{width:50%;}
+.section-{{ section.id }}-padding .locae-header-right{width:50%; text-align: right; padding:0 10px;}  
+.section-{{ section.id }}-padding .locae-header-right img{max-width:100%; max-width: 310px;}
+
+ @media screen and (max-width: 749px) {
+.section-{{ section.id }}-padding .locae-header-left{width:100%; text-align: center;}
+.section-{{ section.id }}-padding .locae-header-right{width:100%; text-align: center; padding:8px 0 0;}  
+ .section-{{ section.id }}-padding .locae-header-left h2{font-size: 60px; line-height: 56px;}   
+ }
+  
+{%- endstyle -%}
+<div class="color-{{ section.settings.color_scheme }} gradient" id="media_article">
+  <div class="section-{{ section.id }}-padding">
+    
+    <div class="page-width">
+
+      <div class="locae-header flex align-item-center flex-flow">
+       {% if section.settings.heading != blank %}
+           <div class="locae-header-left">
+        <h2>{{ section.settings.heading }}</h2>
+           </div>
+      {% endif %}
+       {% if section.settings.image != blank %}
+       <div class="locae-header-right">
+         <img src="{{ section.settings.image | img_url:'master' }}">
+       </div>
+          {% endif %}
+      </div>
+
+    
+  </div>
+</div>
+</div>
+
+
+{% schema %}
+{
+  "name": "Locate Header",
+  "tag": "section",
+  "class": "section",
+  "settings": [
+    {
+      "type": "text",
+      "id": "heading",
+      "default": "ARTICLES ABOUT BALLISTOL",
+      "label": "t:sections.video.settings.heading.label"
+    },
+    {
+     "type": "image_picker",
+     "id": "image",
+     "label": "t:sections.multicolumn.blocks.column.settings.image.label"
+    },
+    {
+      "type": "color_scheme",
+      "id": "color_scheme",
+      "label": "t:sections.all.colors.label",
+      "default": "background-1"
+    },
+    {
+      "type": "header",
+      "content": "t:sections.all.padding.section_padding_heading"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_top",
+      "default": 40
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_bottom",
+      "default": 52
+    }
+  ],
+  "presets": [
+    {
+      "name": "Locate Header"
+    }
+  ]
+}
+{% endschema %}

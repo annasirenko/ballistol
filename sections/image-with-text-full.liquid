@@ -1,0 +1,161 @@
+{%- style -%}
+  .section-{{ section.id }}-padding {
+    padding-top: calc({{ section.settings.padding_top }}px * 0.75);
+    padding-bottom: calc({{ section.settings.padding_bottom }}px  * 0.75);
+  }
+
+
+
+  
+.image-banner-main img{max-width:100%; width:100%; display:block}
+.image-banner-main {    position: relative;}
+.image-banner-main-caption { position: absolute; text-align: center; bottom: 75px;left: 0;right: 0; margin: 0 auto;    max-width: 100%;}
+.image-banner-main-caption-inner{max-width:485px; }  
+.image-banner-main-caption h2{font-size:40px;font-weight:700;line-height: 60px;margin: 0px 0 62px;} 
+.image-banner-main-caption-inner  a {min-width:220px;  min-height: 64px; font-size: 30px;font-weight: 500;line-height: 45px;letter-spacing: 0em;text-align: center;}  
+
+  
+  @media screen and (min-width: 750px) {
+    .section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
+
+@media screen and (max-width: 1280px) {
+  .image-banner-main-caption h2 {    font-size: 40px;    line-height: 50px;    margin: 0px 0 25px;}
+}
+
+@media screen and (max-width: 1100px) {
+  .image-banner-main-caption h2 {    font-size: 30px;    line-height: 40px;   }
+  .image-banner-main-caption-inner {    max-width: 425px;}
+}
+  
+
+  
+@media screen and (min-width: 990px) {
+.image-banner-main-mobile{display:none !important;}
+ }
+  
+
+@media screen and (max-width: 989px) {
+.image-banner-main-desktop{display:none !important;}
+.image-banner-main-caption-inner {     max-width: 100%;}  
+  
+}
+
+@media screen and (max-width: 767px) {
+.image-banner-main-caption-inner a {       min-height: 60px;    font-size: 24px;  }
+}
+  
+@media screen and (max-width: 400px) {
+.image-banner-main-caption{bottom:40px}
+.image-banner-main-caption h2 {    font-size: 26px;    line-height: 30px;}  
+}
+  
+  
+{%- endstyle -%}
+
+
+<div class="color-{{ section.settings.color_scheme }} gradient section-{{ section.id }}-padding">
+  <div class="image-banner-main">
+    
+     {% if section.settings.image != blank %}   <img class="image-banner-main-desktop" src="{{ section.settings.image | img_url:'master' }}">  {% endif %}
+     {% if section.settings.imagem != blank %} <img class="image-banner-main-mobile" src="{{ section.settings.imagem | img_url:'master' }}">  {% endif %}
+    
+      <div class="image-banner-main-caption">
+         <div class="page-width">
+               <div class="image-banner-main-caption-inner">
+        {% if section.settings.heading != blank %}    
+        <h2>{{ section.settings.heading }}</h2>
+          {% endif %}
+       {% if section.settings.button_label != blank %}      <a href="{{ section.settings.button_link }}" class="button">{{ section.settings.button_label }}</a>   {% endif %}
+         </div>
+                 </div>
+      </div>
+  </div>
+</div>
+
+
+
+
+
+{% schema %}
+{
+  "name": "Image Banner Full",
+  "tag": "section",
+  "class": "section",
+  "settings": [
+     {
+      "type": "image_picker",
+      "id": "image",
+      "label": "Desktop image"
+    },
+     {
+      "type": "image_picker",
+      "id": "imagem",
+      "label": "Mobile image"
+    },
+    {
+     "type": "inline_richtext",
+     "id": "heading",
+     "default": "Talk about your brand",
+     "label": "t:sections.rich-text.blocks.heading.settings.heading.label"
+    },
+     {
+          "type": "text",
+          "id": "button_label",
+          "default": "Button label",
+          "label": "t:sections.rich-text.blocks.buttons.settings.button_label_1.label",
+          "info": "t:sections.rich-text.blocks.buttons.settings.button_label_1.info"
+        },
+        {
+          "type": "url",
+          "id": "button_link",
+          "label": "t:sections.rich-text.blocks.buttons.settings.button_link_1.label"
+    },
+    {
+      "type": "color_scheme",
+      "id": "color_scheme",
+      "label": "t:sections.all.colors.label",
+      "default": "background-1"
+    },
+    {
+      "type": "header",
+      "content": "t:sections.all.padding.section_padding_heading"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_top",
+      "default": 40
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_bottom",
+      "default": 52
+    }
+  ],
+  "presets": [
+    {
+      "name": "Image Banner Full"
+    }
+  ]
+}
+{% endschema %}
+
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

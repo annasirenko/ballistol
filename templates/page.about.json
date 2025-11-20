@@ -1,0 +1,199 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "5a587c3d-671a-43e3-ba4b-320e14e2b925": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20381262020893__5a587c3d-671a-43e3-ba4b-320e14e2b925-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "SINCE 1904, BALLISTOL HAS DEFEATED RUST, FRICTION, CORROSION AND THOUSANDS OF CHEMICAL ENGINEERS WHO’VE TRIED TO IMPROVE IT."
+          }
+        },
+        "template--20381262020893__5a587c3d-671a-43e3-ba4b-320e14e2b925-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>For over 100 years, Ballistol has held the title of the world’s most useful and 100% eco-friendly multi-purpose oil. Unlike competing oils, it’s also skin-safe and non-carcinogenic. People all over the world trust Ballistol to clean, lubricate, penetrate, protect and preserve their firearms, leather, wood, metal, rubber and plastic. With a mind-boggling range of applications, Ballistol is the recommended, must-have multi-tasking oil for in the know mechanics, plumbers, electricians, shooters, hunters, fishermen, and handymen all over the world.</p>",
+            "text_style": "body"
+          }
+        },
+        "template--20381262020893__5a587c3d-671a-43e3-ba4b-320e14e2b925-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/all",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20381262020893__5a587c3d-671a-43e3-ba4b-320e14e2b925-heading-1",
+        "template--20381262020893__5a587c3d-671a-43e3-ba4b-320e14e2b925-text-1",
+        "template--20381262020893__5a587c3d-671a-43e3-ba4b-320e14e2b925-button-1"
+      ],
+      "settings": {
+        "class_main": "",
+        "image": "shopify://shop_images/History_Hero_crop_a9ad91f5-0e4e-48bf-98ed-323e4d5b03ec.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "318af064-7c75-4fd9-9f83-e4207dc1fb18": {
+      "type": "the_mission",
+      "settings": {
+        "heading": "THE MISSION: DEVELOP AN OIL THAT CAN BE USED ON EVERYTHING.",
+        "mission_content": "<p>At the turn of the 20th century, the German Imperial Army demanded the impossible. They challenged Friedrich Klever and his son Dr. Helmut Klever,  a professor of chemistry, to create a unique, multipurpose oil. This new oil had to clean, lubricate and protect:</p><ul><li>The metallic parts of guns and rifles</li><li>The wooden stocks of guns and rifles</li><li>Soldiers’ leather gear</li></ul><p>Oh, and it also had to serve as a wound oil for minor injuries, lacerations and bruises.</p>",
+        "img": "shopify://shop_images/clever.png",
+        "name": "Dr. Helmut Klever",
+        "detail": "In 1904, Dr. Klever succeeded in producing the special compound, which he named “Ballistol” (from the words “ballistic” and “oleum”, the Latin word for “oil”). This new “ballistic oil” performed even better than anyone hoped. In 1905, the Imperial Army tested and adopted Ballistol as an essential tool for German soldiers and remained a German “secret weapon” until 1945 when WWII ended. Within a decade, word spread quickly about Dr. Klever’s miracle oil and hunters, boaters, hikers, and outdoorsmen throughout Europe started using Ballistol."
+      }
+    },
+    "461d077a-d86e-4d42-be8c-c9681efe1eaa": {
+      "type": "misson_image",
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "color_scheme": "background-1",
+        "text1": "“There are three things in the life of a hunter that have been there since the beginning of time. You young hunters, take note, the whistle, the schnapps and Ballistol”",
+        "img1": "shopify://shop_images/ballistor.png",
+        "text2": "“Soaking wet and sodden, landlord, go and get me a quart of Kümmelschnapps (liquer); this one gets Ballistol”",
+        "img2": "shopify://shop_images/balliimg.png"
+      }
+    },
+    "126e2b39-afc9-410b-8ee1-e5afedc8b1a1": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20381262020893__126e2b39-afc9-410b-8ee1-e5afedc8b1a1-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--20381262020893__126e2b39-afc9-410b-8ee1-e5afedc8b1a1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "In the US, Ballistol was originally sold as Ballistol Lube and Sportsman’s Lube. It quickly became the CLP of choice for black powder shooters. Today, Ballistol USA is sold in over 2k retail locations as Ballistol Multi-Purpose Oil. Whether you need to clean a firearm, prevent rust, rejuvenate leather, waterproof boots, loosen a rusty bolt, fix a squeaky hinge…Ballistol does it all.",
+            "text_style": "body"
+          }
+        },
+        "template--20381262020893__126e2b39-afc9-410b-8ee1-e5afedc8b1a1-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify://collections/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20381262020893__126e2b39-afc9-410b-8ee1-e5afedc8b1a1-heading-1",
+        "template--20381262020893__126e2b39-afc9-410b-8ee1-e5afedc8b1a1-text-1",
+        "template--20381262020893__126e2b39-afc9-410b-8ee1-e5afedc8b1a1-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/BA_Fullwidth_Image_LIfestyle1_1.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "d98a6662-bfc0-4117-9f21-454ba62ec7d0": {
+      "type": "page",
+      "settings": {
+        "page-id": "faq-id",
+        "page": "faq",
+        "heading_size": "h1",
+        "color_scheme": "scheme-f68c7696-8623-49af-a7fc-8aa220b8f7fb",
+        "padding_top": 52,
+        "padding_bottom": 48
+      }
+    },
+    "be91e793-3cdf-4fcb-82cf-38ca034746e4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20381262020893__be91e793-3cdf-4fcb-82cf-38ca034746e4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "MEDIA DOWNLOADS",
+            "heading_size": "h1"
+          }
+        },
+        "template--20381262020893__be91e793-3cdf-4fcb-82cf-38ca034746e4-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Product Photos",
+            "button_link": "/pages/media#pro-photos",
+            "button_style_secondary": false,
+            "button_label_2": "Product Data Sheets",
+            "button_link_2": "/pages/media#data-sheet",
+            "button_style_secondary_2": false,
+            "button_label_3": "Videos",
+            "button_link_3": "/pages/media#video_media",
+            "button_style_secondary_3": false,
+            "button_label_4": "Articles",
+            "button_link_4": "/pages/media#media_article",
+            "button_style_secondary_4": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20381262020893__be91e793-3cdf-4fcb-82cf-38ca034746e4-heading-1",
+        "template--20381262020893__be91e793-3cdf-4fcb-82cf-38ca034746e4-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "5a587c3d-671a-43e3-ba4b-320e14e2b925",
+    "318af064-7c75-4fd9-9f83-e4207dc1fb18",
+    "461d077a-d86e-4d42-be8c-c9681efe1eaa",
+    "126e2b39-afc9-410b-8ee1-e5afedc8b1a1",
+    "d98a6662-bfc0-4117-9f21-454ba62ec7d0",
+    "be91e793-3cdf-4fcb-82cf-38ca034746e4"
+  ]
+}

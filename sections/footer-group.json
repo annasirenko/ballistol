@@ -1,0 +1,74 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "1bd0bf3e-8f7e-45c0-859c-3ad5f2669bce": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Logo_BALLISTOL2022_1.png",
+            "image_width": 165,
+            "alignment": "",
+            "subtext": "<p><strong>Washington Trading Co., Inc.<br/>Ballistol USA</strong><br/>P.O. Box 900<br/>Kitty Hawk, NC 27949</p>"
+          }
+        },
+        "bb992346-84bd-4271-abed-e8c071bdeb6e": {
+          "type": "link_list",
+          "settings": {
+            "heading": "QUICK LINKS:",
+            "menu": "footer"
+          }
+        },
+        "5b4fa5a8-a671-44df-aaa2-6b660ad17f5e": {
+          "type": "link_list",
+          "settings": {
+            "heading": "LEGAL:",
+            "menu": "legal"
+          }
+        },
+        "1db1c54e-c738-4c38-a5a1-dfbf88221b1f": {
+          "type": "text",
+          "settings": {
+            "heading": "SUPPORT: ",
+            "subtext": "<p><a href=\"/pages/contact\" title=\"Contact\">Contact Us</a><br/><br/><strong>Toll Free<br/></strong><a href=\"tel:(800) 253-2460\" title=\"tel:(800) 253-2460\">(800) 253-2460</a><br/><br/><strong>Email<br/></strong><a href=\"mailto:info@ballistol.com\" title=\"mailto:info@ballistol.com\">info@ballistol.com</a></p><p><strong>Fax</strong><br/><a href=\"tel:252-261-0408\" title=\"tel:252-261-0408\">252-261-0408</a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "1bd0bf3e-8f7e-45c0-859c-3ad5f2669bce",
+        "bb992346-84bd-4271-abed-e8c071bdeb6e",
+        "5b4fa5a8-a671-44df-aaa2-6b660ad17f5e",
+        "1db1c54e-c738-4c38-a5a1-dfbf88221b1f"
+      ],
+      "settings": {
+        "bg": "shopify://shop_images/Footer_Background_1.jpg",
+        "color_scheme": "scheme-925f606e-42cb-41b5-b705-0f759a0007c6",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": true,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 20,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

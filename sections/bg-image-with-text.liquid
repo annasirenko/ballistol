@@ -1,0 +1,171 @@
+{%- style -%}
+  .section-{{ section.id }}-padding {
+    padding-top: {{ section.settings.padding_top }}px;
+    padding-bottom: {{ section.settings.padding_bottom }}px;
+    background: url('{{ section.settings.image | img_url: 'master' }}') no-repeat center;
+    background-size: cover;
+  }
+
+  /* Desktop / Default */
+  .image-bg-main-caption-inner h2 {
+    font-size: 56px;        /* increased from 40px */
+    line-height: 72px;
+    margin-right: 65px;
+    font-weight: 700;       /* optional: bolder for impact */
+  }
+
+  .image-bg-main-caption-inner a {
+    min-width: 220px;
+    min-height: 80px;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 45px;
+    text-align: center;
+  }
+
+  .image-bg-main-caption img {
+    max-width: 100%;
+    width: 100%;
+  }
+
+  /* Medium screens (tablets / smaller laptops) */
+  @media screen and (max-width: 1280px) {
+    .image-bg-main-caption-inner h2 {
+      font-size: 44px;
+      line-height: 60px;
+      margin-right: 30px;
+    }
+
+    .image-bg-main-caption-inner a {
+      min-height: 60px;
+      font-size: 24px;
+      line-height: 30px;
+    }
+  }
+
+  @media screen and (max-width: 1100px) {
+    .image-bg-main-caption-inner h2 {
+      font-size: 38px;
+      line-height: 52px;
+      margin-right: 25px;
+    }
+
+    .image-bg-main-caption-inner a {
+      min-width: 175px;
+      min-height: 50px;
+      font-size: 22px;
+      line-height: 26px;
+    }
+  }
+
+  @media screen and (max-width: 989px) {
+    .image-bg-main-caption-inner h2 {
+      font-size: 32px;
+      line-height: 42px;
+      text-align: center;
+      margin: 0 0 8px;
+      width: 100%;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .image-bg-main-caption-inner h2 {
+      font-size: 26px;
+      line-height: 34px;
+    }
+  }
+{%- endstyle -%}
+
+
+
+<div class="color-{{ section.settings.color_scheme }} gradient section-{{ section.id }}-padding">
+
+    <div class="image-bg-main-caption">
+         <div class="page-width">
+               <div class="image-bg-main-caption-inner flex flex-flow align-item-center justify-center">
+        {% if section.settings.heading != blank %}    
+        <h2>{{ section.settings.heading }}</h2>
+          {% endif %}
+       {% if section.settings.button_label != blank %}      <a href="{{ section.settings.button_link }}" class="button">{{ section.settings.button_label }}</a>   {% endif %}
+         </div>
+      </div>
+  </div>
+</div>
+
+
+
+
+
+{% schema %}
+{
+  "name": "Bg Image with Text",
+  "tag": "section",
+  "class": "section",
+  "settings": [
+     {
+      "type": "image_picker",
+      "id": "image",
+      "label": "Background image"
+    },
+    {
+     "type": "inline_richtext",
+     "id": "heading",
+     "default": "Talk about your brand",
+     "label": "t:sections.rich-text.blocks.heading.settings.heading.label"
+    },
+     {
+          "type": "text",
+          "id": "button_label",
+          "default": "Button label",
+          "label": "t:sections.rich-text.blocks.buttons.settings.button_label_1.label",
+          "info": "t:sections.rich-text.blocks.buttons.settings.button_label_1.info"
+        },
+        {
+          "type": "url",
+          "id": "button_link",
+          "label": "t:sections.rich-text.blocks.buttons.settings.button_link_1.label"
+    },
+    {
+      "type": "color_scheme",
+      "id": "color_scheme",
+      "label": "t:sections.all.colors.label",
+      "default": "background-1"
+    },
+    {
+      "type": "header",
+      "content": "t:sections.all.padding.section_padding_heading"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_top",
+      "default": 40
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_bottom",
+      "default": 52
+    }
+  ],
+  "presets": [
+    {
+      "name": "Bg Image with Text"
+    }
+  ]
+}
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

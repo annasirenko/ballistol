@@ -1,0 +1,196 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "3da75b37-f205-4a34-89c2-f391a72c184e": {
+      "type": "breadcrumbs",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-2",
+        "padding_top": 4,
+        "padding_bottom": 4
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "color_scheme": "inverse"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 3,
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": false,
+        "filter_type": "horizontal",
+        "enable_sorting": false,
+        "columns_mobile": "1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1f5e1bd9-f269-4ca9-9c2b-8b45ba1b450e": {
+      "type": "collection-swatch-with-text",
+      "settings": {
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 24
+      }
+    },
+    "0e651ff3-1140-48bb-9cab-7119c3e71c83": {
+      "type": "testimonial-slider",
+      "blocks": {
+        "6692d46d-0732-4053-9c70-cd10c7f46c1b": {
+          "type": "slider",
+          "settings": {
+            "heading": "I use it to clean and coat my loppers and pruners to prevent them from rusting.",
+            "subheading": "Allen Tang"
+          }
+        },
+        "c172fe33-b0bb-4047-9f52-84a0fda3b59d": {
+          "type": "slider",
+          "settings": {
+            "heading": "Ballistolis the best!!! It’s always in my range bag!!!",
+            "subheading": "Rick Hines"
+          }
+        },
+        "953633ac-1a0c-49e6-bfab-9214d92c4c06": {
+          "type": "slider",
+          "settings": {
+            "heading": "This is truly some of the best stuff I’ve ever used on my modern, muzzleloaders and fishing gear.",
+            "subheading": "Jimmy Sommese"
+          }
+        },
+        "b276a309-0aff-4a9d-8e4c-bdb67d0f95d3": {
+          "type": "slider",
+          "settings": {
+            "heading": "Used many different gun cleaners. None did what they claimed. Then tried Ballistol. Needless to say, all my other cleaners and oils are now gone.",
+            "subheading": "Kristen Joseph Call"
+          }
+        },
+        "ae33693a-80c0-4c30-aac7-39a5e8259658": {
+          "type": "slider",
+          "settings": {
+            "heading": "Been selling and using Ballistol for years. It’s the best. We recommend it to all our customers.",
+            "subheading": "Michael Hassel, King Pawn & Gun"
+          }
+        },
+        "e02c7222-e542-4ab7-9507-f1faf8c09193": {
+          "type": "slider",
+          "settings": {
+            "heading": "Love this stuff!",
+            "subheading": "Michael Anderson"
+          }
+        },
+        "71bea462-e8cf-416c-bdd3-4789104b1723": {
+          "type": "slider",
+          "settings": {
+            "heading": "Great product for guns, wood, leather. You can even restore boat gelcoat with it!",
+            "subheading": "John Rooney"
+          }
+        },
+        "5530e920-4fde-4f00-bca5-898f9a6a03bf": {
+          "type": "slider",
+          "settings": {
+            "heading": "This stuff is the best, without question. I love it so much I proudly wear a Ballistol hat.",
+            "subheading": "Mike Zadorozny"
+          }
+        },
+        "6e2807c0-4a0d-40a6-af04-5dfcce8dc8df": {
+          "type": "slider",
+          "settings": {
+            "heading": "Worth every penny",
+            "subheading": "Jeff Jackson"
+          }
+        },
+        "61cad07c-e27b-4ed4-ab29-2929f5614893": {
+          "type": "slider",
+          "settings": {
+            "heading": "The best.",
+            "subheading": "Steve Dandini"
+          }
+        },
+        "d6591bb8-a5dc-4483-8580-b472a70ad375": {
+          "type": "slider",
+          "settings": {
+            "heading": "You can’t beat this stuff!",
+            "subheading": "Kenny Sizemore"
+          }
+        },
+        "a554da93-4c6c-4a30-8667-6f753abb2134": {
+          "type": "slider",
+          "settings": {
+            "heading": "Clean and lube in one shot. The best!",
+            "subheading": "Charlie Puza"
+          }
+        },
+        "5e7bfc6f-7afc-482b-8fe2-f04c62153b33": {
+          "type": "slider",
+          "settings": {
+            "heading": "Hada lock completely rusted shut. Soaked it in Ballistol for 24 hours and still use it today.",
+            "subheading": "Greg Brockman"
+          }
+        },
+        "fbb979ea-f914-4cac-a675-cc6a789163d5": {
+          "type": "slider",
+          "settings": {
+            "heading": "Beststuff on the planet!",
+            "subheading": "Jeff Martin"
+          }
+        },
+        "a3cb7fd5-19d0-481b-b38d-4849b07682d9": {
+          "type": "slider",
+          "settings": {
+            "heading": "Amen to Ballistol ",
+            "subheading": "Skip White"
+          }
+        }
+      },
+      "block_order": [
+        "6692d46d-0732-4053-9c70-cd10c7f46c1b",
+        "c172fe33-b0bb-4047-9f52-84a0fda3b59d",
+        "953633ac-1a0c-49e6-bfab-9214d92c4c06",
+        "b276a309-0aff-4a9d-8e4c-bdb67d0f95d3",
+        "ae33693a-80c0-4c30-aac7-39a5e8259658",
+        "e02c7222-e542-4ab7-9507-f1faf8c09193",
+        "71bea462-e8cf-416c-bdd3-4789104b1723",
+        "5530e920-4fde-4f00-bca5-898f9a6a03bf",
+        "6e2807c0-4a0d-40a6-af04-5dfcce8dc8df",
+        "61cad07c-e27b-4ed4-ab29-2929f5614893",
+        "d6591bb8-a5dc-4483-8580-b472a70ad375",
+        "a554da93-4c6c-4a30-8667-6f753abb2134",
+        "5e7bfc6f-7afc-482b-8fe2-f04c62153b33",
+        "fbb979ea-f914-4cac-a675-cc6a789163d5",
+        "a3cb7fd5-19d0-481b-b38d-4849b07682d9"
+      ],
+      "settings": {
+        "heading": "AWW SHUCKS, OUR CUSTOMERS SAY THE NICEST THINGS.",
+        "color_scheme": "",
+        "padding_top": 16,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "3da75b37-f205-4a34-89c2-f391a72c184e",
+    "banner",
+    "product-grid",
+    "1f5e1bd9-f269-4ca9-9c2b-8b45ba1b450e",
+    "0e651ff3-1140-48bb-9cab-7119c3e71c83"
+  ]
+}
