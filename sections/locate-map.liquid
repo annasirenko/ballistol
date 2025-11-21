@@ -74,20 +74,16 @@
 
   </div>
 </div>
-
-<style></style>
 <script>
   $(document).ready(function(){
     const locatorLoad = setInterval(function(){
       if($(".stockist-map.stockist-map-leaflet").length){
         const $coverRight = $(".map-cover-right");
-        
-        // Only run if cover exists
-        // if($coverRight.length){
-        //   $coverRight.fadeOut(500, function(){
-        //     $(this).remove();
-        //   });
-        // }
+        if($coverRight.length){
+          $coverRight.fadeOut(300, function(){
+            $(this).remove();
+          });
+        }
         clearInterval(locatorLoad);
       }
     },500);
